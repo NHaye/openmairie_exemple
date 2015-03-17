@@ -1,0 +1,1359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: openmairie_exemple\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-04 19:34+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Florent MICHON <fmichon at atreal dot net>\n"
+"Language-Team: openMairie Team <contact@openmairie.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: /var/www/\n"
+"X-Poedit-SearchPath-0: openmairie_exemple\n"
+
+#: openmairie_exemple/dyn/config.inc.php:15
+msgid "openExemple"
+msgstr ""
+
+#: openmairie_exemple/dyn/config.inc.php:18
+msgid "openExemple - Framework"
+msgstr ""
+
+#: openmairie_exemple/dyn/actions.inc.php:29
+msgid "Mot de passe"
+msgstr "Password"
+
+#: openmairie_exemple/dyn/actions.inc.php:30
+msgid "Changer votre mot de passe"
+msgstr "Change your password"
+
+#: openmairie_exemple/dyn/actions.inc.php:39
+msgid "Deconnexion"
+msgstr "Logout"
+
+#: openmairie_exemple/dyn/actions.inc.php:40
+msgid "Quitter l'application"
+msgstr ""
+
+#: openmairie_exemple/dyn/menu.inc.php:43
+#: openmairie_exemple/dyn/menu.inc.php:55
+#: openmairie_exemple/scr/edition.php:11
+msgid "Edition"
+msgstr ""
+
+#: openmairie_exemple/dyn/menu.inc.php:44
+#: openmairie_exemple/dyn/menu.inc.php:71
+#: openmairie_exemple/dyn/menu.inc.php:105
+msgid "Description"
+msgstr ""
+
+#: openmairie_exemple/dyn/menu.inc.php:62
+#: openmairie_exemple/scr/reqmo.php:10
+msgid "Requetes memorisees"
+msgstr ""
+
+#: openmairie_exemple/dyn/menu.inc.php:70
+msgid "Traitement"
+msgstr "Treatment"
+
+#: openmairie_exemple/dyn/menu.inc.php:82
+msgid "Import"
+msgstr ""
+
+#: openmairie_exemple/dyn/menu.inc.php:89
+msgid "Sauvegarde"
+msgstr "Backup"
+
+#: openmairie_exemple/dyn/menu.inc.php:94
+msgid "Generateur"
+msgstr ""
+
+#: openmairie_exemple/dyn/menu.inc.php:104
+#: openmairie_exemple/scr/txtab.php:35
+#: openmairie_exemple/scr/txform.php:28
+msgid "Parametrage"
+msgstr "Setting"
+
+#: openmairie_exemple/dyn/menu.inc.php:117
+msgid "Collectivite"
+msgstr ""
+
+#: openmairie_exemple/dyn/menu.inc.php:129
+msgid "profil"
+msgstr "profile"
+
+#: openmairie_exemple/dyn/menu.inc.php:136
+msgid "droit"
+msgstr "right"
+
+#: openmairie_exemple/dyn/menu.inc.php:143
+msgid "utilisateur"
+msgstr "user"
+
+#: openmairie_exemple/dyn/menu.inc.php:155
+msgid "Lettres types"
+msgstr ""
+
+#: openmairie_exemple/dyn/menu.inc.php:162
+msgid "Etats"
+msgstr ""
+
+#: openmairie_exemple/dyn/menu.inc.php:169
+msgid "Sous Etats"
+msgstr ""
+
+#: openmairie_exemple/dyn/footer.inc.php:28
+msgid "Documentation"
+msgstr ""
+
+#: openmairie_exemple/dyn/footer.inc.php:29
+msgid "Acceder a l'espace documentation de l'application"
+msgstr ""
+
+#: openmairie_exemple/dyn/footer.inc.php:38
+msgid "openMairie.org"
+msgstr ""
+
+#: openmairie_exemple/dyn/footer.inc.php:39
+msgid "Site officiel du projet openMairie"
+msgstr ""
+
+#: openmairie_exemple/scr/dashboard.php:10
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+#: openmairie_exemple/scr/recherche.php:26
+#: openmairie_exemple/scr/recherche.php:28
+msgid "recherche"
+msgstr ""
+
+#: openmairie_exemple/scr/recherche.php:26
+msgid "globale"
+msgstr ""
+
+#: openmairie_exemple/scr/recherche.php:94
+#: openmairie_exemple/scr/recherche.php:99
+#: openmairie_exemple/scr/recherche.php:106
+#: openmairie_exemple/scr/recherche.php:110
+msgid "resultat"
+msgstr ""
+
+#: openmairie_exemple/scr/recherche.php:106
+msgid "aucun"
+msgstr ""
+
+#: openmairie_exemple/scr/rechercheglobale.php:10
+msgid "Recherche globale"
+msgstr ""
+
+#: openmairie_exemple/scr/soustab.php:64
+#: openmairie_exemple/scr/txtab.php:24
+msgid "L'objet est invalide."
+msgstr ""
+
+#: openmairie_exemple/scr/soustab.php:84
+#: openmairie_exemple/scr/txtab.php:79
+msgid "Ajouter"
+msgstr "Add"
+
+#: openmairie_exemple/scr/soustab.php:89
+msgid "Modifier"
+msgstr "Edit"
+
+#: openmairie_exemple/scr/soustab.php:94
+msgid "Supprimer"
+msgstr "Delete"
+
+#: openmairie_exemple/scr/login.php:10
+msgid "Veuillez vous connecter"
+msgstr "Please log in"
+
+#: openmairie_exemple/scr/reqmo.php:15
+msgid "Les requetes memorisees permettent ..."
+msgstr ""
+
+#: openmairie_exemple/scr/reqmo.php:35
+#: openmairie_exemple/scr/edition.php:43
+msgid "Generation"
+msgstr ""
+
+#: openmairie_exemple/scr/edition.php:16
+msgid "Cette page vous permet de visualiser les editions disponibles dans l'application."
+msgstr ""
+
+#: openmairie_exemple/scr/edition.php:67
+msgid "Specifique"
+msgstr ""
+
+#: openmairie_exemple/scr/password.php:12
+msgid "Mon compte"
+msgstr "My account"
+
+#: openmairie_exemple/scr/password.php:17
+msgid "Cette page vous permet de changer votre mot de passe. Pour cela, il vous suffit de saisir votre mot de passe actuel puis votre nouveau mot de passe deux fois."
+msgstr ""
+
+#: openmairie_exemple/scr/password.php:63
+msgid "Mot de passe actuel incorrect"
+msgstr ""
+
+#: openmairie_exemple/scr/password.php:70
+msgid "Nouveau mot de passe incorrect"
+msgstr ""
+
+#: openmairie_exemple/scr/password.php:83
+msgid "Votre mot de passe a ete change correctement"
+msgstr ""
+
+#: openmairie_exemple/scr/password.php:94
+msgid "Mot de passe actuel"
+msgstr "Current password"
+
+#: openmairie_exemple/scr/password.php:99
+msgid "Nouveau mot de passe"
+msgstr "New password"
+
+#: openmairie_exemple/scr/password.php:104
+msgid "Confirmation du nouveau mot de passe"
+msgstr ""
+
+#: openmairie_exemple/scr/password.php:109
+msgid "Valider"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:77
+msgid "reqmo"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:81
+#: openmairie_exemple/scr/requeteur.php:387
+msgid "retour"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:181
+#: openmairie_exemple/scr/requeteur.php:217
+msgid "sortie"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:190
+msgid "separateur"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:190
+msgid "champ"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:200
+msgid "limite"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:215
+msgid "afficher"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:215
+msgid "oui"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:215
+msgid "non"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:216
+#: openmairie_exemple/scr/requeteur.php:217
+msgid "critere"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:216
+msgid "tri"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:337
+#: openmairie_exemple/scr/requeteur.php:370
+msgid "enregistrement"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:382
+msgid "msg1"
+msgstr ""
+
+#: openmairie_exemple/scr/requeteur.php:384
+msgid "msg2"
+msgstr ""
+
+#: openmairie_exemple/scr/import.php:17
+msgid "Cette page vous permet d'importer des donnees au format CSV directement dans la base de donnees."
+msgstr ""
+
+#: openmairie_exemple/scr/import.php:51
+msgid "Vous n'avez pas selectionne de fichier a importer."
+msgstr ""
+
+#: openmairie_exemple/scr/import.php:77
+msgid "Choix de la table d'import :"
+msgstr ""
+
+#: openmairie_exemple/scr/import.php:80
+msgid "Table"
+msgstr ""
+
+#: openmairie_exemple/scr/import.php:105
+msgid "Import du fichier CSV :"
+msgstr ""
+
+#: openmairie_exemple/scr/import.php:108
+msgid "Fichier"
+msgstr ""
+
+#: openmairie_exemple/scr/import.php:114
+msgid "Separateur"
+msgstr ""
+
+#: openmairie_exemple/scr/import.php:116
+msgid "(point-virgule)"
+msgstr ""
+
+#: openmairie_exemple/scr/import.php:117
+msgid "(virgule)"
+msgstr ""
+
+#: openmairie_exemple/trt/sauvegarde.php:13
+msgid "L'outil de sauvegarde permet d'effectuer un \"dump\" de la base de donnees sur une action manuelle."
+msgstr ""
+
+#: openmairie_exemple/trt/sauvegarde.php:37
+msgid "Le systeme de sauvegarde est desactive."
+msgstr ""
+
+#: openmairie_exemple/trt/sauvegarde.php:46
+msgid "Le systeme de sauvegarde n'est pas compatible avec le type de votre base de donnees."
+msgstr ""
+
+#: openmairie_exemple/trt/sauvegarde.php:126
+msgid "serveur"
+msgstr ""
+
+#: openmairie_exemple/trt/sauvegarde.php:126
+msgid "ok"
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:315
+msgid "Droits insuffisants. Vous avez un profil"
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:317
+msgid "alors que sur cette page un profil"
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:320
+msgid "est necessaire."
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:504
+#: openmairie_exemple/obj/utils.class.php:834
+msgid "Votre session est maintenant ouverte."
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:533
+msgid "Votre login ou mot de passe est incorrect."
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:572
+msgid "Votre session est maintenant terminee."
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:621
+msgid "Identifiant"
+msgstr "Login"
+
+#: openmairie_exemple/obj/utils.class.php:637
+msgid "Base de donnees"
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:649
+msgid "Se connecter"
+msgstr "Log in"
+
+#: openmairie_exemple/obj/utils.class.php:961
+msgid "collectivite"
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:999
+msgid ""
+"Erreur de base de donnees. Contactez votre\n"
+"                         administrateur."
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:1079
+msgid "openMairie"
+msgstr ""
+
+#: openmairie_exemple/obj/utils.class.php:1166
+msgid "Fermer"
+msgstr "Close"
+
+#: openmairie_exemple/obj/utils.class.php:1200
+msgid "Aide"
+msgstr "Help"
+
+#: openmairie_exemple/obj/utils.class.php:1581
+msgid "Version"
+msgstr ""
+
+#: openmairie_exemple/obj/droit.class.php:20
+#: openmairie_exemple/obj/utilisateur.class.php:39
+#: openmairie_exemple/obj/utilisateur.class.php:43
+#: openmairie_exemple/obj/utilisateur.class.php:47
+#: openmairie_exemple/obj/utilisateur.class.php:51
+#: openmairie_exemple/obj/profil.class.php:32
+#: openmairie_exemple/obj/profil.class.php:34
+#: openmairie_exemple/obj/profil.class.php:46
+msgid "obligatoire"
+msgstr ""
+
+#: openmairie_exemple/obj/utilisateur.class.php:43
+msgid "login"
+msgstr ""
+
+#: openmairie_exemple/obj/utilisateur.class.php:47
+#: openmairie_exemple/obj/utilisateur.class.php:75
+#: openmairie_exemple/spg/upload2.php:134
+#: openmairie_exemple/spg/upload.php:166
+msgid "nom"
+msgstr ""
+
+#: openmairie_exemple/obj/utilisateur.class.php:51
+msgid "pwd"
+msgstr ""
+
+#: openmairie_exemple/obj/profil.class.php:32
+#: openmairie_exemple/obj/profil.class.php:34
+msgid "identifiant"
+msgstr ""
+
+#: openmairie_exemple/obj/profil.class.php:46
+msgid "libelle"
+msgstr ""
+
+#: openmairie_exemple/spg/voir.php:57
+msgid "Voir"
+msgstr ""
+
+#: openmairie_exemple/spg/rvb.php:35
+msgid "RVB"
+msgstr ""
+
+#: openmairie_exemple/spg/upload2.php:134
+#: openmairie_exemple/spg/upload.php:166
+msgid "fichier"
+msgstr ""
+
+#: openmairie_exemple/spg/upload2.php:134
+msgid "a_envoyer"
+msgstr ""
+
+#: openmairie_exemple/spg/upload2.php:134
+#: openmairie_exemple/spg/upload.php:166
+msgid "absent"
+msgstr ""
+
+#: openmairie_exemple/spg/upload2.php:137
+#: openmairie_exemple/spg/upload.php:169
+msgid "envoyer"
+msgstr ""
+
+#: openmairie_exemple/spg/combobba.php:42
+msgid "title_html"
+msgstr ""
+
+#: openmairie_exemple/spg/combobba.php:64
+#: openmairie_exemple/spg/combobba.php:79
+#: openmairie_exemple/spg/combobba.php:93
+msgid "choix"
+msgstr ""
+
+#: openmairie_exemple/spg/combobba.php:105
+msgid "valider"
+msgstr ""
+
+#: openmairie_exemple/spg/upload.php:94
+msgid "autoriser"
+msgstr ""
+
+#: openmairie_exemple/spg/upload.php:111
+msgid "caractere"
+msgstr ""
+
+#: openmairie_exemple/spg/upload.php:113
+msgid "selection"
+msgstr ""
+
+#: openmairie_exemple/spg/upload.php:151
+msgid "upload"
+msgstr ""
+
+#: openmairie_exemple/spg/combo2.php:109
+#: openmairie_exemple/spg/combo.php:111
+msgid "verifiez_correspondance_avec"
+msgstr ""
+
+#: openmairie_exemple/spg/combo2.php:134
+#: openmairie_exemple/spg/combo.php:136
+msgid "aucune_correspondance"
+msgstr ""
+
+#: openmairie_exemple/spg/combo2.php:180
+#: openmairie_exemple/spg/combo.php:179
+msgid "vous_devez_saisir_une_valeur_d_au_moins"
+msgstr ""
+
+#: openmairie_exemple/spg/combo2.php:180
+#: openmairie_exemple/spg/combo.php:179
+msgid "caracteres_dans_le_champs"
+msgstr ""
+
+#: openmairie_exemple/spg/combo2.php:182
+#: openmairie_exemple/spg/combo.php:181
+msgid "fermer_fenetre"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:133
+#: openmairie_exemple/gen/sup.php:200
+#: openmairie_exemple/gen/sup.php:248
+#: openmairie_exemple/gen/sup.php:289
+#: openmairie_exemple/gen/sup.php:314
+#: openmairie_exemple/gen/sup.php:339
+#: openmairie_exemple/gen/sup.php:403
+#: openmairie_exemple/gen/gen.php:58
+#: openmairie_exemple/gen/auto.php:79
+msgid "supprimer"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:133
+#: openmairie_exemple/gen/auto.php:80
+msgid "non_demande"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:145
+#: openmairie_exemple/gen/auto.php:178
+msgid "analyse"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:145
+#: openmairie_exemple/gen/sup.php:153
+#: openmairie_exemple/gen/gen.php:38
+#: openmairie_exemple/gen/auto.php:178
+#: openmairie_exemple/gen/auto.php:184
+msgid "bdd"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:153
+#: openmairie_exemple/gen/sup.php:158
+#: openmairie_exemple/gen/gen.php:56
+#: openmairie_exemple/gen/auto.php:184
+#: openmairie_exemple/gen/auto.php:188
+msgid "table"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:159
+#: openmairie_exemple/gen/sup.php:161
+#: openmairie_exemple/gen/sup.php:163
+#: openmairie_exemple/gen/auto.php:189
+#: openmairie_exemple/gen/auto.php:191
+#: openmairie_exemple/gen/auto.php:193
+#: openmairie_exemple/gen/auto.php:351
+msgid "cle"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:161
+#: openmairie_exemple/gen/auto.php:191
+msgid "automatique"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:163
+#: openmairie_exemple/gen/auto.php:193
+msgid "manuelle"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:164
+#: openmairie_exemple/gen/auto.php:194
+msgid "longueur"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:180
+#: openmairie_exemple/gen/auto.php:210
+msgid "sousformulaire"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:188
+#: openmairie_exemple/gen/auto.php:218
+msgid "clesecondaire"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:200
+#: openmairie_exemple/gen/auto.php:247
+msgid "formulaire"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:203
+#: openmairie_exemple/gen/auto.php:250
+#: openmairie_exemple/gen/auto.php:262
+msgid "tableinc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:206
+#: openmairie_exemple/gen/sup.php:209
+#: openmairie_exemple/gen/sup.php:217
+#: openmairie_exemple/gen/sup.php:220
+#: openmairie_exemple/gen/sup.php:228
+#: openmairie_exemple/gen/sup.php:231
+#: openmairie_exemple/gen/sup.php:239
+#: openmairie_exemple/gen/sup.php:242
+#: openmairie_exemple/gen/sup.php:256
+#: openmairie_exemple/gen/sup.php:258
+#: openmairie_exemple/gen/sup.php:260
+#: openmairie_exemple/gen/sup.php:263
+#: openmairie_exemple/gen/sup.php:274
+#: openmairie_exemple/gen/sup.php:276
+#: openmairie_exemple/gen/sup.php:280
+#: openmairie_exemple/gen/sup.php:283
+#: openmairie_exemple/gen/sup.php:299
+#: openmairie_exemple/gen/sup.php:301
+#: openmairie_exemple/gen/sup.php:305
+#: openmairie_exemple/gen/sup.php:308
+#: openmairie_exemple/gen/sup.php:322
+#: openmairie_exemple/gen/sup.php:324
+#: openmairie_exemple/gen/sup.php:326
+#: openmairie_exemple/gen/sup.php:328
+#: openmairie_exemple/gen/sup.php:330
+#: openmairie_exemple/gen/sup.php:333
+#: openmairie_exemple/gen/sup.php:347
+#: openmairie_exemple/gen/sup.php:350
+#: openmairie_exemple/gen/sup.php:352
+#: openmairie_exemple/gen/sup.php:355
+#: openmairie_exemple/gen/sup.php:365
+#: openmairie_exemple/gen/sup.php:368
+#: openmairie_exemple/gen/sup.php:375
+#: openmairie_exemple/gen/sup.php:378
+#: openmairie_exemple/gen/sup.php:387
+#: openmairie_exemple/gen/sup.php:389
+#: openmairie_exemple/gen/sup.php:391
+#: openmairie_exemple/gen/sup.php:394
+#: openmairie_exemple/gen/gen.php:56
+#: openmairie_exemple/gen/auto.php:255
+#: openmairie_exemple/gen/auto.php:258
+#: openmairie_exemple/gen/auto.php:267
+#: openmairie_exemple/gen/auto.php:270
+#: openmairie_exemple/gen/auto.php:278
+#: openmairie_exemple/gen/auto.php:281
+#: openmairie_exemple/gen/auto.php:290
+#: openmairie_exemple/gen/auto.php:293
+#: openmairie_exemple/gen/auto.php:302
+#: openmairie_exemple/gen/auto.php:305
+#: openmairie_exemple/gen/auto.php:314
+#: openmairie_exemple/gen/auto.php:317
+#: openmairie_exemple/gen/auto.php:330
+#: openmairie_exemple/gen/auto.php:333
+#: openmairie_exemple/gen/auto.php:342
+#: openmairie_exemple/gen/auto.php:345
+#: openmairie_exemple/gen/auto.php:351
+#: openmairie_exemple/gen/auto.php:362
+#: openmairie_exemple/gen/auto.php:365
+#: openmairie_exemple/gen/auto.php:382
+#: openmairie_exemple/gen/auto.php:384
+#: openmairie_exemple/gen/auto.php:390
+#: openmairie_exemple/gen/auto.php:393
+#: openmairie_exemple/gen/auto.php:455
+#: openmairie_exemple/gen/auto.php:458
+#: openmairie_exemple/gen/auto.php:479
+#: openmairie_exemple/gen/auto.php:482
+msgid "existant"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:215
+#: openmairie_exemple/gen/auto.php:274
+#: openmairie_exemple/gen/auto.php:286
+msgid "tableforminc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:226
+#: openmairie_exemple/gen/auto.php:298
+#: openmairie_exemple/gen/auto.php:310
+msgid "obj"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:237
+msgid "tableobj"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:248
+#: openmairie_exemple/gen/auto.php:322
+#: openmairie_exemple/gen/auto.php:326
+#: openmairie_exemple/gen/auto.php:338
+#: openmairie_exemple/gen/auto.php:352
+msgid "edition"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:254
+msgid "editioninc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:270
+msgid "etatinc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:295
+#: openmairie_exemple/gen/auto.php:376
+msgid "reqmoinc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:314
+#: openmairie_exemple/gen/gen.php:59
+msgid "documentation"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:320
+msgid "documentationinc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:339
+#: openmairie_exemple/gen/auto.php:429
+msgid "divers"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:344
+msgid "menuinc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:363
+#: openmairie_exemple/gen/auto.php:451
+msgid "rechercheinc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:373
+msgid "langinc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:385
+#: openmairie_exemple/gen/auto.php:475
+msgid "importinc"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:406
+#: openmairie_exemple/gen/auto.php:492
+msgid "droit_insufisant"
+msgstr ""
+
+#: openmairie_exemple/gen/sup.php:421
+msgid "interdit"
+msgstr ""
+
+#: openmairie_exemple/gen/gen.php:57
+#: openmairie_exemple/gen/auto.php:247
+#: openmairie_exemple/gen/auto.php:322
+#: openmairie_exemple/gen/auto.php:371
+#: openmairie_exemple/gen/auto.php:429
+#: openmairie_exemple/gen/auto.php:489
+msgid "generation"
+msgstr ""
+
+#: openmairie_exemple/gen/gen.php:57
+#: openmairie_exemple/gen/gen.php:58
+msgid "objet"
+msgstr ""
+
+#: openmairie_exemple/gen/auto.php:234
+#: openmairie_exemple/gen/auto.php:506
+msgid "parametrage"
+msgstr ""
+
+#: openmairie_exemple/gen/auto.php:351
+msgid "secondaire"
+msgstr ""
+
+#: openmairie_exemple/gen/obj/droit.class.php:82
+#: openmairie_exemple/gen/obj/utilisateur.class.php:128
+msgid "choisir"
+msgstr ""
+
+#: openmairie_exemple/gen/obj/utilisateur.class.php:112
+msgid "email"
+msgstr ""
+
+#: openmairie_exemple/gen/obj/profil.class.php:77
+msgid "libelle_profil"
+msgstr ""
+
+#: openmairie_exemple/gen/obj/collectivite.class.php:59
+msgid "valeur"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/txform.class.php:91
+#: openmairie_exemple/php/openmairie/txform.class.php:123
+msgid "Le fichier est enregistre."
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/txform.class.php:288
+msgid "Retour"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:545
+#: openmairie_exemple/php/openmairie/tab.class.php:1427
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:584
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1546
+msgid "sur"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:616
+#: openmairie_exemple/php/openmairie/tab.class.php:1491
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:651
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1615
+msgid "page"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:1146
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1241
+msgid "Attention, Erreur de base de donnees"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:1151
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1246
+msgid "Requete"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:1156
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1251
+msgid "Erreur du SGBD"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:1161
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1256
+msgid "Erreur DB Pear"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:1166
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1261
+msgid "Erreur Framework"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:1173
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1268
+msgid "Requete non executee :"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:1175
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1270
+msgid "Contactez votre administrateur..."
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tab.class.php:1426
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:1545
+msgid "enregistrement(s)"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:405
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:201
+msgid "portrait"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:405
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:201
+msgid "paysage"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:415
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:211
+msgid "normal"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:415
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:211
+msgid "italique"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:415
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:211
+msgid "gras"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:415
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:211
+msgid "souligne"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:425
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:223
+msgid "gauche"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:425
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:223
+msgid "droite"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:425
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:223
+msgid "justifie"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:425
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:223
+msgid "centre"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:430
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:229
+msgid "sans"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:430
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:229
+msgid "avec"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:435
+msgid "transparent"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:435
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:659
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:671
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:678
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:679
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:688
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:691
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:695
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:698
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:702
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:705
+msgid "fond"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:505
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:259
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:265
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:275
+msgid "parametres"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:505
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:651
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:265
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:332
+msgid "titre"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:518
+msgid "entete"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:518
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:527
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:534
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:541
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:548
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:555
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:562
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:655
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:659
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:660
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:351
+msgid "du"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:518
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:527
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:534
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:541
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:548
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:555
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:562
+msgid "tableau"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:527
+msgid "data"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:534
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:684
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:688
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:695
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:702
+msgid "cellule"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:541
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:710
+msgid "total"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:548
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:711
+msgid "moyenne"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:555
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:712
+msgid "nombre"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:562
+msgid "operations"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:653
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:667
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:682
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:690
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:697
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:704
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:349
+msgid "hauteur"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:654
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:338
+msgid "font"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:655
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:351
+msgid "mise_en_forme"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:655
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:660
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:666
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:351
+msgid "texte"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:656
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:676
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:689
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:696
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:703
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:352
+msgid "taille"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:657
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:669
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:675
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:677
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:684
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:685
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:692
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:699
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:706
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:353
+msgid "bordure"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:658
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:670
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:686
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:693
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:700
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:707
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:342
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:354
+msgid "align"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:659
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:660
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:672
+msgid "couleur"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:661
+msgid "intervalle"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:661
+msgid "debut"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:662
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:665
+msgid "fin"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:664
+msgid "flag"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:666
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:329
+msgid "orientation"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:674
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:683
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:336
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:348
+msgid "largeur"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:678
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:679
+msgid "numero"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:678
+msgid "un"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:679
+msgid "deux"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:684
+msgid "premiere"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:709
+msgid "numerique"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:714
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:356
+msgid "sql"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_sousetat.class.php:725
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:372
+msgid "Texte du titre"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:259
+msgid "generaux"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:275
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:344
+msgid "corps"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:327
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:334
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:345
+msgid "left"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:328
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:335
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:346
+msgid "top"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:330
+msgid "format"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:337
+msgid "Hauteur"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:339
+msgid "Mise en forme du texte"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:340
+msgid "Taille"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:341
+msgid "Bordure"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_lettretype.class.php:382
+msgid "Texte du corps"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/tabdyn.class.php:2487
+msgid "Recherche"
+msgstr "Search"
+
+#: openmairie_exemple/php/openmairie/om_table.class.php:270
+msgid "Aucun enregistrement."
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_table.class.php:348
+#: openmairie_exemple/php/openmairie/om_table.class.php:403
+msgid "Envoyer un mail a cette adresse"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_table.class.php:628
+#: openmairie_exemple/php/openmairie/om_table.class.php:633
+msgid "Tous"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_table.class.php:703
+#: openmairie_exemple/php/openmairie/om_table.class.php:708
+msgid "Page precedente"
+msgstr "Previous page"
+
+#: openmairie_exemple/php/openmairie/om_table.class.php:728
+msgid "enregistrement(s) sur"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_table.class.php:767
+#: openmairie_exemple/php/openmairie/om_table.class.php:772
+msgid "Page suivante"
+msgstr "Next page"
+
+#: openmairie_exemple/php/openmairie/om_table.class.php:800
+msgid "Page"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:169
+#: openmairie_exemple/php/openmairie/dbform.class.php:239
+#: openmairie_exemple/php/openmairie/dbform.class.php:271
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:315
+msgid "de_la"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:172
+msgid "ajoute"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:177
+msgid "non_enregistre"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:241
+msgid "mis_a_jour"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:273
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:317
+msgid "supprime"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:479
+msgid "verrou"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:1000
+#: openmairie_exemple/php/openmairie/dbform.class.php:1030
+#: openmairie_exemple/php/openmairie/dbform.class.php:1060
+#: openmairie_exemple/php/openmairie/dbform.class.php:1090
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:1318
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:1348
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:1378
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:1408
+msgid "n'est pas une date valide"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:1001
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:1319
+msgid "[calcul date php]"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:1031
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:1349
+msgid "[calcul annee php]"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:1061
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:1379
+msgid "[calcul mois php]"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbform.class.php:1091
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:1409
+msgid "[calcul jour php]"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/gen.class.php:97
+msgid "option"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/gen.class.php:269
+msgid "ecriture"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/gen.class.php:278
+msgid "inexistant"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_etat.class.php:327
+msgid "Choisir un sous etat"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_etat.class.php:395
+#: openmairie_exemple/php/openmairie/om_etat.class.php:482
+msgid "sous_etat"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_etat.class.php:395
+#: openmairie_exemple/php/openmairie/om_etat.class.php:485
+#: openmairie_exemple/php/openmairie/om_etat.class.php:486
+#: openmairie_exemple/php/openmairie/om_etat.class.php:487
+msgid "marges"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/om_etat.class.php:486
+msgid "haute"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:188
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:278
+msgid "Vos modifications ont bien ete enregistrees."
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:200
+msgid "SAISIE NON ENREGISTREE"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:241
+msgid "L'\"identifiant\" est obligatoire"
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:276
+msgid "Attention vous n'avez fait aucune modification."
+msgstr ""
+
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:660
+#: openmairie_exemple/php/openmairie/dbformdyn.class.php:691
+msgid "l'enregistrement de la table"
+msgstr ""
+
+#: openmairie_exemple/sql/mysql/utilisateur.inc:5
+msgid "Utilisateur"
+msgstr "User"
+
+#: openmairie_exemple/sql/mysql/profil.inc:6
+msgid "Profil"
+msgstr "Profile"
+
+#: openmairie_exemple/sql/mysql/droit.inc:5
+msgid "Droit"
+msgstr "Right"
+
+#: openmairie_exemple/sql/mysql/collectivite.inc:32
+msgid "Edition PDF"
+msgstr ""
+
+#: openmairie_exemple/gen/inc/tdb.inc:4
+#: openmairie_exemple/gen/inc/menu.inc:4
+msgid "essai"
+msgstr ""
+
+#: openmairie_exemple/gen/inc/tdb.inc:5
+#: openmairie_exemple/gen/inc/menu.inc:5
+msgid "essai1"
+msgstr ""
+
+#~ msgid "Droits d'acces"
+#~ msgstr "Rights"
+
+#~ msgid "Gestion des utilisateurs"
+#~ msgstr "Users management"
+
+#~ msgid "Gestion des profils"
+#~ msgstr "Profiles management"

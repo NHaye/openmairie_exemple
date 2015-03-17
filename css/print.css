@@ -1,0 +1,13 @@
+/**
+ * Cette feuille de style contient le style specifique a l'impression.
+ * 
+ * @package openmairie_exemple
+ * @version SVN : $Id: print.css 852 2011-12-02 09:09:14Z fmichon $
+ */
+
+/**/
+#menu, #header, #footer, #help { display:none;}
+a.retour { display:none; }
+table, th, tr, td { border: 1px solid #000000; }
+table { width:100%; }
+.ui-icon, .om-button { display: none; }

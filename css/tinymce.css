@@ -1,0 +1,36 @@
+/*
+ * Rendu tinymce
+ */
+
+.mce-item-table{width:100%;}
+.mce_min{text-transform: lowercase;}
+.mce_maj{text-transform: uppercase;}
+.mce-ico .mce_majmin_button{
+padding: 5px !important;}
+.mce_codebarre{background: #DEDEDE url("../img/barcode.png") no-repeat left top;
+background-position :  0% 0%;
+background-size: 24px;
+    padding-left : 28px;
+padding-top:0;
+border : 1px dotted black;
+}
+.mce_codebarre_button{
+    background: url("../img/barcode.png");
+}
+.mce_sousetat{background: #DEDEDE url("../img/sousetat.png") no-repeat left top;
+background-position :  0% 0%;
+background-size: 16px;
+    padding-left : 20px;
+padding-top:0;
+border : 1px dotted black;
+}
+.mce_min{
+    text-transform: lowercase;
+}
+.mce_maj{
+    text-transform: uppercase;
+}
+.mce-content-body,
+.field-type-htmlstatic .form-content{
+    padding-left: 20px;
+}

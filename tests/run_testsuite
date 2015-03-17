@@ -1,0 +1,25 @@
+#! /bin/sh
+##
+# Ce script permet d'exécuter le test suite passé en premier paramètre.
+# Un second paramètre facultatif (noinit) permet de ne pas réinitialiser la BDD.
+#
+# @package openaria
+# @version SVN : $Id: run_testsuite 3047 2015-02-13 16:25:25Z softime $
+##
+
+# Initialisation de l'environnement de tests sauf si paramètre spécial
+noinit=$2
+if [ "$noinit" != "noinit" ] ;
+    then
+        ./init_testenv
+fi
+
+# Suppression des anciens résultats
+rm -rf results
+mkdir results
+
+# On exécute le test
+case "$1" in
+    *.robot)    pybot -d results $1 ;;
+    *.php)      phpunit --log-junit results/results.xml $1 ;;
+esac

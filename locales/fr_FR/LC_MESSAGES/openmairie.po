@@ -1,0 +1,4176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: openmairie_exemple\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-07 13:08+0100\n"
+"PO-Revision-Date: 2014-03-07 13:08+0100\n"
+"Last-Translator: nhaye <nhaye@atreal.fr>\n"
+"Language-Team: openMairie Team <contact@openmairie.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: /var/www/\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: openexemple\n"
+
+#: openexemple/dyn/footer.inc.php:37
+msgid "Documentation"
+msgstr "Documentation"
+
+#: openexemple/dyn/footer.inc.php:38
+msgid "Acceder a l'espace documentation de l'application"
+msgstr "Accéder à l'espace documentation de l'application"
+
+#: openexemple/dyn/footer.inc.php:46
+msgid "openMairie.org"
+msgstr "openMairie.org"
+
+#: openexemple/dyn/footer.inc.php:47
+msgid "Site officiel du projet openMairie"
+msgstr "Site officiel du projet openMairie"
+
+#: openexemple/dyn/actions.inc.php:38
+#: openexemple/core/om_application.class.php:1897
+#: openexemple/scr/password.php:12 openexemple/scr/password.php:31
+msgid "Mot de passe"
+msgstr "Mot de passe"
+
+#: openexemple/dyn/actions.inc.php:39
+msgid "Changer votre mot de passe"
+msgstr "Changer votre mot de passe"
+
+#: openexemple/dyn/actions.inc.php:47
+#: openexemple/core/om_application.class.php:1233
+msgid "Deconnexion"
+msgstr "Déconnexion"
+
+#: openexemple/dyn/actions.inc.php:48
+msgid "Quitter l'application"
+msgstr "Quitter l'application"
+
+#: openexemple/dyn/menu.inc.php:54
+msgid "application"
+msgstr "application"
+
+#: openexemple/dyn/menu.inc.php:70
+msgid "export"
+msgstr "export"
+
+#: openexemple/dyn/menu.inc.php:79
+#: openexemple/core/obj/om_collectivite.class.php:36
+msgid "edition"
+msgstr "édition"
+
+#: openexemple/dyn/menu.inc.php:87
+msgid "requetes memorisees"
+msgstr "requêtes mémorisées"
+
+#: openexemple/dyn/menu.inc.php:100
+msgid "traitement"
+msgstr "traitement"
+
+#: openexemple/dyn/menu.inc.php:116
+#: openexemple/gen/sql/pgsql/om_lettretype.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:8
+#: openexemple/gen/sql/pgsql/om_logo.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sousetat.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_etat.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_requete.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:8
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:8
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:8
+msgid "parametrage"
+msgstr "paramétrage"
+
+#: openexemple/dyn/menu.inc.php:124
+msgid "editions"
+msgstr "éditions"
+
+#: openexemple/dyn/menu.inc.php:142
+#: openexemple/core/sql/pgsql/om_etat.inc.php:14
+#: openexemple/core/sql/pgsql/om_etat.inc.php:26
+#: openexemple/scr/genetat.php:13 openexemple/gen/obj/om_etat.class.php:379
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:8
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:29
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:63
+#: openexemple/gen/sql/pgsql/om_etat.form.inc.php:7
+msgid "om_etat"
+msgstr "état"
+
+#: openexemple/dyn/menu.inc.php:150
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:14
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:26
+#: openexemple/scr/genlettretype.php:13
+#: openexemple/gen/obj/om_lettretype.class.php:385
+#: openexemple/gen/sql/pgsql/om_lettretype.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:8
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:29
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:63
+msgid "om_lettretype"
+msgstr "lettre type"
+
+#: openexemple/dyn/menu.inc.php:165
+#: openexemple/core/sql/pgsql/om_logo.inc.php:14
+#: openexemple/core/sql/pgsql/om_logo.inc.php:29
+#: openexemple/gen/obj/om_logo.class.php:192
+#: openexemple/gen/sql/pgsql/om_logo.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:8
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:27
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:45
+msgid "om_logo"
+msgstr "logo"
+
+#: openexemple/dyn/menu.inc.php:181
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:14
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:26
+#: openexemple/gen/obj/om_sousetat.class.php:674
+#: openexemple/gen/sql/pgsql/om_sousetat.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:27
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:97
+msgid "om_sousetat"
+msgstr "sous état"
+
+#: openexemple/dyn/menu.inc.php:189
+#: openexemple/gen/obj/om_requete.class.php:124
+#: openexemple/gen/sql/pgsql/om_requete.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:8
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:25
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:37
+msgid "om_requete"
+msgstr "requête"
+
+#: openexemple/dyn/menu.inc.php:202
+#: openexemple/core/sql/pgsql/om_widget.inc.php:13
+#: openexemple/core/sql/pgsql/om_dashboard.inc.php:13
+#: openexemple/scr/genlettretype.php:13 openexemple/scr/gen.php:14
+#: openexemple/scr/genauto.php:15 openexemple/scr/genfull.php:15
+#: openexemple/scr/dashboard_composer.php:11 openexemple/scr/genimport.php:17
+#: openexemple/scr/import.php:15 openexemple/scr/gensousetat.php:13
+#: openexemple/scr/gensup.php:15 openexemple/scr/genetat.php:13
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:8
+#: openexemple/gen/sql/pgsql/om_collectivite.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:8
+#: openexemple/gen/sql/pgsql/om_droit.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_profil.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_collectivite.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_profil.inc.php:8
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:8
+#: openexemple/gen/sql/pgsql/om_utilisateur.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_droit.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sig_wms.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_widget.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:8
+#: openexemple/gen/sql/pgsql/om_parametre.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_dashboard.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_sig_map.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:8
+msgid "administration"
+msgstr "administration"
+
+#: openexemple/dyn/menu.inc.php:211
+#: openexemple/core/obj/om_sousetat.class.php:202
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:19
+#: openexemple/gen/obj/om_sig_wms.class.php:201
+#: openexemple/gen/obj/om_parametre.class.php:153
+#: openexemple/gen/obj/om_logo.class.php:199
+#: openexemple/gen/obj/om_etat.class.php:380
+#: openexemple/gen/obj/om_lettretype.class.php:386
+#: openexemple/gen/obj/om_utilisateur.class.php:210
+#: openexemple/gen/obj/om_sig_map.class.php:288
+#: openexemple/gen/obj/om_collectivite.class.php:103
+#: openexemple/gen/obj/om_sousetat.class.php:675
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:57
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:51
+#: openexemple/gen/sql/pgsql/om_collectivite.inc.php:8
+#: openexemple/gen/sql/pgsql/om_collectivite.inc.php:25
+#: openexemple/gen/sql/pgsql/om_collectivite.inc.php:34
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:42
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:57
+#: openexemple/gen/sql/pgsql/om_collectivite.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:91
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:37
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:41
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:42
+msgid "om_collectivite"
+msgstr "collectivité"
+
+#: openexemple/dyn/menu.inc.php:219
+#: openexemple/core/sql/pgsql/om_parametre.inc.php:14
+#: openexemple/core/sql/pgsql/om_parametre.inc.php:24
+#: openexemple/sql/pgsql/om_parametre.reqmo.inc.php:6
+#: openexemple/gen/obj/om_parametre.class.php:150
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:8
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:27
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:41
+#: openexemple/gen/sql/pgsql/om_parametre.form.inc.php:7
+msgid "om_parametre"
+msgstr "paramètre"
+
+#: openexemple/dyn/menu.inc.php:226
+msgid "gestion des utilisateurs"
+msgstr "gestion des utilisateurs"
+
+#: openexemple/dyn/menu.inc.php:244
+#: openexemple/gen/obj/om_profil.class.php:103
+#: openexemple/gen/obj/om_droit.class.php:121
+#: openexemple/gen/obj/om_utilisateur.class.php:212
+#: openexemple/gen/obj/om_dashboard.class.php:154
+#: openexemple/gen/sql/pgsql/om_profil.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_profil.inc.php:8
+#: openexemple/gen/sql/pgsql/om_profil.inc.php:25
+#: openexemple/gen/sql/pgsql/om_profil.inc.php:34
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:30
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:41
+#: openexemple/gen/sql/pgsql/om_droit.inc.php:29
+#: openexemple/gen/sql/pgsql/om_droit.inc.php:38
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:33
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:51
+msgid "om_profil"
+msgstr "profil"
+
+#: openexemple/dyn/menu.inc.php:252 openexemple/gen/obj/om_droit.class.php:119
+#: openexemple/gen/sql/pgsql/om_droit.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_droit.inc.php:8
+#: openexemple/gen/sql/pgsql/om_droit.inc.php:27
+#: openexemple/gen/sql/pgsql/om_droit.inc.php:36
+msgid "om_droit"
+msgstr "droit"
+
+#: openexemple/dyn/menu.inc.php:260
+#: openexemple/gen/obj/om_utilisateur.class.php:205
+#: openexemple/gen/sql/pgsql/om_utilisateur.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:8
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:29
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:47
+msgid "om_utilisateur"
+msgstr "utilisateur"
+
+#: openexemple/dyn/menu.inc.php:274
+msgid "annuaire"
+msgstr "annuaire"
+
+#: openexemple/dyn/menu.inc.php:282
+#: openexemple/core/sql/pgsql/om_widget.inc.php:13
+#: openexemple/core/sql/pgsql/om_dashboard.inc.php:13
+#: openexemple/scr/dashboard_composer.php:11
+msgid "tableaux de bord"
+msgstr "tableaux de bord"
+
+#: openexemple/dyn/menu.inc.php:298
+#: openexemple/core/sql/pgsql/om_widget.inc.php:13
+#: openexemple/gen/obj/om_widget.class.php:117
+#: openexemple/gen/obj/om_dashboard.class.php:157
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:8
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:25
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:36
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:33
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:44
+#: openexemple/gen/sql/pgsql/om_widget.form.inc.php:7
+msgid "om_widget"
+msgstr "widget"
+
+#: openexemple/dyn/menu.inc.php:306 openexemple/scr/dashboard_composer.php:11
+#: openexemple/scr/dashboard_composer.php:19
+msgid "composition"
+msgstr "composition"
+
+#: openexemple/dyn/menu.inc.php:313
+msgid "sig"
+msgstr "sig"
+
+#: openexemple/dyn/menu.inc.php:331
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:15
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:30
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:16
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:15
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:38
+#: openexemple/gen/obj/om_sig_map_wms.class.php:281
+#: openexemple/gen/obj/om_sig_map.class.php:287
+#: openexemple/gen/obj/om_sig_map_comp.class.php:185
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:28
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:43
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:27
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:57
+#: openexemple/gen/sql/pgsql/om_sig_map.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:31
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:54
+msgid "om_sig_map"
+msgstr ""
+
+#: openexemple/dyn/menu.inc.php:340
+#: openexemple/gen/obj/om_sig_wms.class.php:199
+#: openexemple/gen/obj/om_sig_map_wms.class.php:280
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:27
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:46
+#: openexemple/gen/sql/pgsql/om_sig_wms.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:30
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:53
+msgid "om_sig_wms"
+msgstr ""
+
+#: openexemple/dyn/menu.inc.php:348
+msgid "options avancees"
+msgstr "options avancées"
+
+#: openexemple/dyn/menu.inc.php:360 openexemple/scr/import.php:15
+msgid "import"
+msgstr "import"
+
+#: openexemple/dyn/menu.inc.php:371 openexemple/scr/genlettretype.php:13
+#: openexemple/scr/gen.php:14 openexemple/scr/genauto.php:15
+#: openexemple/scr/genfull.php:15 openexemple/scr/genimport.php:17
+#: openexemple/scr/gensousetat.php:13 openexemple/scr/gensup.php:15
+#: openexemple/scr/genetat.php:13
+msgid "generateur"
+msgstr "générateur"
+
+#: openexemple/dyn/shortlinks.inc.php:39
+#: openexemple/core/om_layout.class.php:553
+#: openexemple/core/om_layout_bootstrap.class.php:215
+#: openexemple/core/om_layout_jquerymobile.class.php:260
+#: openexemple/scr/dashboard.php:12
+msgid "Tableau de bord"
+msgstr "Tableau de bord"
+
+#: openexemple/dyn/shortlinks.inc.php:40
+msgid "Acceder a la page d'accueil de l'application"
+msgstr "Accéder à la page d'accueil de l'application"
+
+#: openexemple/dyn/config.inc.php:15
+msgid "openExemple"
+msgstr "openExemple"
+
+#: openexemple/dyn/config.inc.php:18
+#: openexemple/core/om_application.class.php:640
+#: openexemple/core/om_application.class.php:641
+msgid "openMairie"
+msgstr "openMairie"
+
+#: openexemple/dyn/config.inc.php:18
+msgid "openExemple - Framework"
+msgstr "openExemple - Framework"
+
+#: openexemple/pdf/pdfetiquette.php:27 openexemple/pdf/pdf.php:31
+#: openexemple/scr/sousform.php:75 openexemple/scr/form.php:86
+#: openexemple/scr/soustab.php:69 openexemple/scr/travail_tab_sig.php:100
+#: openexemple/scr/tab.php:69 openexemple/scr/import.php:47
+#: openexemple/scr/tab_sig.php:93 openexemple/spg/direct_link.php:35
+#: openexemple/spg/upload.php:31
+msgid "L'objet est invalide."
+msgstr "L'objet est invalide."
+
+#: openexemple/core/om_layout.class.php:445
+#: openexemple/core/om_layout_bootstrap.class.php:147
+msgid "Actions globales"
+msgstr "Actions globales"
+
+#: openexemple/core/om_layout.class.php:451
+#: openexemple/core/om_layout_bootstrap.class.php:154
+#: openexemple/core/om_layout_jquerymobile.class.php:173
+msgid "Version"
+msgstr "Version"
+
+#: openexemple/core/om_layout.class.php:598
+msgid "Actions personnelles"
+msgstr "Actions personnelles"
+
+#: openexemple/core/om_layout.class.php:676
+#: openexemple/core/om_layout_jquerymobile.class.php:276
+msgid "Raccourcis"
+msgstr "Raccourcis"
+
+#: openexemple/core/om_layout.class.php:750
+msgid "Menu"
+msgstr "Menu"
+
+#: openexemple/core/om_layout.class.php:950
+#: openexemple/core/om_layout.class.php:2212
+#: openexemple/core/om_layout_jquerymobile.class.php:855
+#: openexemple/scr/tab_sig.php:375
+msgid "Fermer"
+msgstr "Fermer"
+
+#: openexemple/core/om_layout.class.php:1046
+#: openexemple/core/om_layout.class.php:1050
+#: openexemple/core/om_layout_bootstrap.class.php:651
+#: openexemple/core/om_layout_jquerymobile.class.php:939
+msgid "Page precedente"
+msgstr "Page précédente"
+
+#: openexemple/core/om_layout.class.php:1059
+msgid "enregistrement(s) sur"
+msgstr "enregistrement(s) sur"
+
+#: openexemple/core/om_layout.class.php:1084
+#: openexemple/core/om_layout.class.php:1088
+#: openexemple/core/om_layout_bootstrap.class.php:672
+#: openexemple/core/om_layout_jquerymobile.class.php:978
+msgid "Page suivante"
+msgstr "Page suivante"
+
+#: openexemple/core/om_layout.class.php:1102
+#: openexemple/core/om_layout_jquerymobile.class.php:1009
+#: openexemple/core/om_layout_jquerymobile.class.php:1014
+#: openexemple/core/om_layout_jquerymobile.class.php:1018
+msgid "Page"
+msgstr "Page"
+
+#: openexemple/core/om_layout.class.php:1170
+#: openexemple/core/om_layout.class.php:1175
+#: openexemple/core/om_layout_jquerymobile.class.php:890
+#: openexemple/core/om_layout_jquerymobile.class.php:895
+msgid "Tous"
+msgstr "Tous"
+
+#: openexemple/core/om_layout.class.php:1187
+#: openexemple/core/om_layout_bootstrap.class.php:744
+#: openexemple/core/om_table.class.php:2276
+#: openexemple/core/om_table.class.php:2459
+#: openexemple/core/om_layout_jquerymobile.class.php:907
+msgid "Recherche"
+msgstr "Recherche"
+
+#: openexemple/core/om_layout.class.php:1216
+#: openexemple/core/om_layout.class.php:1232
+#: openexemple/core/obj/om_etat.class.php:176
+#: openexemple/core/obj/om_lettretype.class.php:176
+#: openexemple/scr/edition.php:11
+msgid "Edition"
+msgstr "Édition"
+
+#: openexemple/core/om_layout.class.php:1287
+#: openexemple/core/om_layout.class.php:1553
+#: openexemple/core/om_layout.class.php:1654
+#: openexemple/core/om_layout.class.php:2088
+#: openexemple/core/om_layout.class.php:2217
+#: openexemple/core/om_layout_jquerymobile.class.php:672
+#: openexemple/core/om_layout_jquerymobile.class.php:1108
+#: openexemple/core/om_layout_jquerymobile.class.php:1222
+#: openexemple/core/om_layout_jquerymobile.class.php:1644
+#: openexemple/core/om_layout_jquerymobile.class.php:1872
+#: openexemple/core/om_dbform.class.php:2742 openexemple/scr/tab_sig.php:380
+msgid "Retour"
+msgstr "Retour"
+
+#: openexemple/core/om_layout.class.php:1463
+#: openexemple/core/om_formulaire.class.php:2225
+msgid "Cliquer ici pour telecharger un fichier depuis votre poste de travail"
+msgstr "Cliquer ici pour télécharger un fichier depuis votre poste de travail"
+
+#: openexemple/core/om_layout.class.php:1464
+#: openexemple/core/om_formulaire.class.php:1988
+#: openexemple/core/om_formulaire.class.php:2226
+#: openexemple/core/om_layout_jquerymobile.class.php:824
+msgid "Telecharger"
+msgstr "Télécharger"
+
+#: openexemple/core/om_layout.class.php:1475
+#: openexemple/core/om_formulaire.class.php:2233
+#: openexemple/core/om_formulaire.class.php:2272
+#: openexemple/core/om_formulaire.class.php:2317
+msgid "Cliquer ici pour voir le fichier"
+msgstr "Cliquer ici pour voir le fichier"
+
+#: openexemple/core/om_layout.class.php:1476
+#: openexemple/core/om_layout.class.php:1493
+#: openexemple/core/om_formulaire.class.php:2234
+#: openexemple/core/om_formulaire.class.php:2273
+#: openexemple/core/om_formulaire.class.php:2318
+#: openexemple/core/om_layout_jquerymobile.class.php:831
+#: openexemple/spg/voir.php:139
+msgid "Voir"
+msgstr "Voir"
+
+#: openexemple/core/om_layout.class.php:1492
+#: openexemple/core/om_formulaire.class.php:2240
+msgid "Cliquer ici pour supprimer le fichier"
+msgstr "Cliquer ici pour supprimer le fichier"
+
+#: openexemple/core/om_layout.class.php:1507
+#: openexemple/core/om_formulaire.class.php:2423
+#: openexemple/core/om_formulaire.class.php:2445
+#: openexemple/core/om_formulaire.class.php:2490
+msgid "Cliquer ici pour positionner l'element"
+msgstr "Cliquer ici pour positionner l'élément"
+
+#: openexemple/core/om_layout.class.php:1508
+#: openexemple/core/om_formulaire.class.php:2424
+#: openexemple/core/om_formulaire.class.php:2446
+#: openexemple/core/om_formulaire.class.php:2491
+#: openexemple/core/om_layout_jquerymobile.class.php:868
+#: openexemple/spg/localisation.php:46
+msgid "Localisation"
+msgstr "Localisation"
+
+#: openexemple/core/om_layout.class.php:1517
+#: openexemple/core/om_layout.class.php:1520
+#: openexemple/core/om_layout_jquerymobile.class.php:1070
+#: openexemple/core/om_layout_jquerymobile.class.php:1073
+msgid "Tout generer"
+msgstr "Tout générer"
+
+#: openexemple/core/om_layout.class.php:1518
+#: openexemple/core/om_layout_jquerymobile.class.php:1072
+msgid "Oui"
+msgstr "Oui"
+
+#: openexemple/core/om_layout.class.php:1518
+#: openexemple/core/om_layout_jquerymobile.class.php:1072
+msgid "Non"
+msgstr "Non"
+
+#: openexemple/core/om_layout.class.php:1529
+#: openexemple/core/om_layout.class.php:1532
+#: openexemple/core/om_layout_jquerymobile.class.php:1081
+msgid "Generer"
+msgstr "Générer"
+
+#: openexemple/core/om_layout.class.php:1544
+#: openexemple/core/om_layout_jquerymobile.class.php:1098
+msgid "Generer les fichiers de la table :"
+msgstr "Générer les fichiers de la table :"
+
+#: openexemple/core/om_layout.class.php:1562
+#: openexemple/core/om_layout_jquerymobile.class.php:1129
+#: openexemple/core/om_dbform.class.php:2134
+#: openexemple/core/om_dbform.class.php:2178 openexemple/spg/combo.php:248
+#: openexemple/spg/adresse_postale_mapquest.php:100
+#: openexemple/spg/adresse_postale.php:129 openexemple/spg/widgetctl.php:224
+msgid "Valider"
+msgstr "Valider"
+
+#: openexemple/core/om_layout.class.php:1569
+#: openexemple/core/om_layout.class.php:1572
+#: openexemple/core/om_formulaire.class.php:2241
+#: openexemple/core/om_layout_jquerymobile.class.php:843
+#: openexemple/core/om_layout_jquerymobile.class.php:1136
+#: openexemple/core/om_layout_jquerymobile.class.php:1140
+#: openexemple/core/om_dbform.class.php:2125
+#: openexemple/core/om_dbform.class.php:2168 openexemple/scr/sousform.php:100
+#: openexemple/scr/form.php:113
+msgid "Supprimer"
+msgstr "Supprimer"
+
+#: openexemple/core/om_layout.class.php:1751
+msgid "Criteres de la requete"
+msgstr "Critères de la requête"
+
+#: openexemple/core/om_layout.class.php:1793
+#: openexemple/core/om_layout_jquerymobile.class.php:1358
+msgid "Choix des champs a afficher"
+msgstr "Choix des champs à afficher"
+
+#: openexemple/core/om_layout.class.php:1820
+#: openexemple/core/om_layout.class.php:1845
+#: openexemple/core/om_layout_jquerymobile.class.php:1383
+#: openexemple/core/om_layout_jquerymobile.class.php:1409
+msgid "Choix des criteres de tri"
+msgstr "Choix des critères de tri"
+
+#: openexemple/core/om_layout.class.php:1881
+#: openexemple/core/om_layout_jquerymobile.class.php:1435
+msgid "Parametres de sortie"
+msgstr "Paramètres de sortie"
+
+#: openexemple/core/om_layout.class.php:1888
+msgid "Choix du format de sortie"
+msgstr "Choix du format de sortie"
+
+#: openexemple/core/om_layout.class.php:1890
+msgid "Tableau - Affichage a l'ecran"
+msgstr "Tableau - Affichage a l'écran"
+
+#: openexemple/core/om_layout.class.php:1891
+msgid "CSV - Export vers logiciel tableur"
+msgstr "CSV - Export vers logiciel tableur"
+
+#: openexemple/core/om_layout.class.php:1898
+msgid "Separateur de champs (pour le format CSV)"
+msgstr "Séparateur de champs (pour le format CSV)"
+
+#: openexemple/core/om_layout.class.php:1909
+msgid "Nombre limite d'enregistrements a afficher (pour le format Tableau)"
+msgstr "Nombre limite d'enregistrements à afficher (pour le format Tableau)"
+
+#: openexemple/core/om_filestorage_deprecated.class.php:237
+#: openexemple/core/om_filestorage_deprecated.class.php:314
+#: openexemple/core/om_filestorage_filesystem.class.php:350
+msgid "La suppression du fichier temporaire a echouee."
+msgstr "La suppression du fichier temporaire a échouée."
+
+#: openexemple/core/om_layout_bootstrap.class.php:625
+msgid "sur"
+msgstr "sur"
+
+#: openexemple/core/om_layout_bootstrap.class.php:761
+#: openexemple/core/om_layout_bootstrap.class.php:766
+msgid "Plus"
+msgstr "Plus"
+
+#: openexemple/core/om_application.class.php:705
+#: openexemple/core/om_application.class.php:2025
+msgid "Votre session est maintenant ouverte."
+msgstr "Votre session est maintenant ouverte."
+
+#: openexemple/core/om_application.class.php:847
+#: openexemple/core/om_dbform.class.php:3286 openexemple/spg/voir.php:69
+#: openexemple/spg/file.php:73
+msgid ""
+"Droits insuffisants. Vous n'avez pas suffisamment de droits pour acceder a "
+"cette page."
+msgstr ""
+"Droits insuffisants. Vous n'avez pas suffisament de droits pour accéder à "
+"cette page."
+
+#: openexemple/core/om_application.class.php:976
+#: openexemple/core/om_application.class.php:1021
+#: openexemple/core/om_application.class.php:1048
+#: openexemple/core/om_application.class.php:1112
+msgid "Aucune entree dans le fichier de configuration"
+msgstr "Aucune entrée dans le fichier de configuration"
+
+#: openexemple/core/om_application.class.php:987
+msgid "Un nom d'hote est obligatoire"
+msgstr "Un nom d'hôte est obligatoire"
+
+#: openexemple/core/om_application.class.php:998
+msgid "Une adresse d'expediteur est obligatoire"
+msgstr "Une adresse d'expediteur est obligatoire"
+
+#: openexemple/core/om_application.class.php:1108
+#: openexemple/core/om_application.class.php:1406
+#: openexemple/core/om_application.class.php:2272
+msgid "Erreur de configuration. Contactez votre administrateur."
+msgstr "Erreur de configuration. Contactez votre administrateur."
+
+#: openexemple/core/om_application.class.php:1173
+msgid "Tentative de connexion au SGBD"
+msgstr "Tentative de connexion au SGBD"
+
+#: openexemple/core/om_application.class.php:1183
+#: openexemple/core/om_application.class.php:1259
+#: openexemple/core/om_application.class.php:1651
+#: openexemple/core/om_application.class.php:1705
+#: openexemple/core/om_application.class.php:2193
+#: openexemple/core/om_database.class.php:62
+#: openexemple/core/fpdf_etat.php:787 openexemple/core/fpdf_etiquette.php:296
+#: openexemple/core/om_dbform.class.php:2833 openexemple/core/db_fpdf.php:248
+msgid "Erreur de base de donnees. Contactez votre administrateur."
+msgstr "Erreur de base de données. Contactez votre administrateur."
+
+#: openexemple/core/om_application.class.php:1233
+msgid "OK"
+msgstr "OK"
+
+#: openexemple/core/om_application.class.php:1233
+msgid "ECHOUEE"
+msgstr "ÉCHOUÉE"
+
+#: openexemple/core/om_application.class.php:1236
+msgid "Aucune base de donnees a deconnecter"
+msgstr "Aucune base de données à déconnecter"
+
+#: openexemple/core/om_application.class.php:1301
+msgid "Votre session est maintenant terminee."
+msgstr "Votre session est maintenant terminée."
+
+#: openexemple/core/om_application.class.php:1357
+#: openexemple/core/om_application.class.php:2158
+#: openexemple/core/om_application.class.php:2205
+#: openexemple/core/om_application.class.php:2250
+msgid "Votre identifiant ou votre mot de passe est incorrect."
+msgstr "Votre identifiant ou votre mot de passe est incorrect."
+
+#: openexemple/core/om_application.class.php:1359
+msgid ""
+"L'application n'est pas en mesure de vous identifier pour l'instant. "
+"Contactez votre administrateur."
+msgstr ""
+"L'application n'est pas en mesure de vous identifier pour l'instant. "
+"Contactez votre administrateur."
+
+#: openexemple/core/om_application.class.php:1363
+msgid "Erreur de l'annuaire"
+msgstr "Erreur de l'annuaire"
+
+#: openexemple/core/om_application.class.php:1424
+msgid ""
+"Mauvais parametres : l'authentification a l'annuaire n'est pas possible."
+msgstr ""
+"Mauvais paramètres : l'authentification sur annuaire n'est pas possible."
+
+#: openexemple/core/om_application.class.php:1460
+msgid ""
+"Impossible de poursuivre la recherche des utilisateurs. La methode de "
+"recherche renvoie le message: "
+msgstr ""
+"Impossible de poursuivre la recherche des utilisateurs. La methode de "
+"recherche renvoie le message : "
+
+#: openexemple/core/om_application.class.php:1719
+msgid "Certains enregistrements provenant du LDAP ne possedent pas l'attribut "
+msgstr ""
+"Certains enregistrements provenant de l'annuaire LDAP ne possèdent pas "
+"l'attribut "
+
+#: openexemple/core/om_application.class.php:1727
+msgid "La synchronisation des utilisateurs est terminee."
+msgstr "La synchronisation des utilisateurs est terminée."
+
+#: openexemple/core/om_application.class.php:1746
+msgid "Les fonctions ldap ne sont pas disponibles sur cette installation."
+msgstr "Les fonctions LDAP ne sont pas disponibles sur cette installation."
+
+#: openexemple/core/om_application.class.php:1867
+msgid "Identification"
+msgstr "Identification"
+
+#: openexemple/core/om_application.class.php:1891
+#: openexemple/core/om_application.class.php:3137
+msgid "Identifiant"
+msgstr "Identifiant"
+
+#: openexemple/core/om_application.class.php:1904
+#: openexemple/core/om_application.class.php:3144
+msgid "Base de donnees"
+msgstr "Base de données"
+
+#: openexemple/core/om_application.class.php:1927
+msgid "Se connecter"
+msgstr "Se connecter"
+
+#: openexemple/core/om_application.class.php:1934
+#: openexemple/scr/password_reset.php:11
+msgid "Redefinition du mot de passe"
+msgstr "Redéfinition du mot de passe"
+
+#: openexemple/core/om_application.class.php:1936
+msgid "Mot de passe oublie ?"
+msgstr "Mot de passe oublié ?"
+
+#: openexemple/core/om_application.class.php:2844
+msgid "Impossible d'ecrire le fichier de log :"
+msgstr "Impossible d'écrire le fichier de log :"
+
+#: openexemple/core/om_application.class.php:2846
+msgid "Le dossier n'est probablement pas accessible en ecriture."
+msgstr "Le dossier n'est probablement pas accessible en écriture."
+
+#: openexemple/core/om_application.class.php:2847
+msgid "Contactez votre administrateur."
+msgstr "Contactez votre administrateur."
+
+#: openexemple/core/om_application.class.php:3167
+msgid "Lancer la re-initialisation du mot de passe"
+msgstr "Lancer la ré-initialisation du mot de passe"
+
+#: openexemple/core/om_application.class.php:3202
+#: openexemple/scr/password.php:101
+msgid "Nouveau mot de passe"
+msgstr "Nouveau mot de passe"
+
+#: openexemple/core/om_application.class.php:3207
+msgid "Confirmation du mot de passe"
+msgstr "Confirmation du mot de passe"
+
+#: openexemple/core/om_application.class.php:3227
+msgid "Definir mon mot de passe"
+msgstr "Definir mon mot de passe"
+
+#: openexemple/core/upload.class.php:449
+msgid "Le fichier a charger excede la directive upload_max_filesize (php.ini)."
+msgstr ""
+"Le fichier à charger excède la directive upload_max_filesize (php.ini)."
+
+#: openexemple/core/upload.class.php:452
+msgid ""
+"Le fichier excede la directive MAX_FILE_SIZE qui a ete specifiee dans le "
+"formulaire."
+msgstr ""
+"Le fichier excède la directive MAX_FILE_SIZE qui a été specifiée dans le "
+"formulaire."
+
+#: openexemple/core/upload.class.php:455
+msgid "Le fichier n'a pu etre charge completement."
+msgstr "Le fichier n'a pu être chargé complètement."
+
+#: openexemple/core/upload.class.php:458
+msgid "Le champ du formulaire est vide."
+msgstr "Le champ du formulaire est vide."
+
+#: openexemple/core/upload.class.php:461
+msgid "Fichier potentiellement dangereux."
+msgstr "Fichier potentiellement dangereux."
+
+#: openexemple/core/upload.class.php:464
+msgid "Le fichier n'est pas conforme a la liste des entetes autorises."
+msgstr "Le fichier n'est pas conforme à la liste des entêtes autorisés."
+
+#: openexemple/core/upload.class.php:467
+msgid "Le fichier n'est pas conforme a la liste des extension(s) autorisee(s)"
+msgstr "Le fichier n'est pas conforme à la liste des extension(s) autorisée(s)"
+
+#: openexemple/core/upload.class.php:470
+msgid "La largeur de l'image depasse celle autorisee."
+msgstr "La largeur de l'image dépasse celle autorisée."
+
+#: openexemple/core/upload.class.php:473
+msgid "La hauteur de l'image depasse celle autorisee."
+msgstr "La hauteur de l'image dépasse celle autorisée."
+
+#: openexemple/core/upload.class.php:476
+msgid "La largeur de l'image est inferieure a celle autorisee."
+msgstr "La largeur de l'image est inférieure à celle autorisée."
+
+#: openexemple/core/upload.class.php:479
+msgid "La hauteur de l'image est inferieure a celle autorisee."
+msgstr "La hauteur de l'image est inférieure à celle autorisée."
+
+#: openexemple/core/upload.class.php:482
+msgid "Erreur a l'ecriture du fichier :"
+msgstr "Erreur à l'écriture du fichier :"
+
+#: openexemple/core/upload.class.php:482
+#: openexemple/core/om_dbform.class.php:1117
+#: openexemple/core/om_dbform.class.php:1132
+#: openexemple/core/om_dbform.class.php:1158
+#: openexemple/core/om_dbform.class.php:1176
+#: openexemple/core/om_dbform.class.php:1231
+msgid "Veuillez contacter votre administrateur."
+msgstr "Veuillez contacter votre administrateur."
+
+#: openexemple/core/upload.class.php:485
+msgid ""
+"Le filestorage n'est pas configure : Veuillez contacter votre administrateur."
+msgstr ""
+"Le filestorage n'est pas configuré : Veuillez contacter votre administrateur."
+
+#: openexemple/core/upload.class.php:581
+msgid "Acces refuse"
+msgstr "Accès refusé"
+
+#: openexemple/core/upload.class.php:603
+msgid "la propriete MaxFilesize doit etre une valeur numerique."
+msgstr "la propriété MaxFilesize doit ëtre une valeur numérique."
+
+#: openexemple/core/upload.class.php:613
+msgid "la propriete Fields doit etre un entier."
+msgstr "la propriété Fields doit ëtre un entier."
+
+#: openexemple/core/upload.class.php:628
+msgid ""
+"La version de php sur ce serveur est trop ancienne. La classe ne peut "
+"fonctionner qu'avec une version egale ou superieure a la version 4.1.0."
+msgstr ""
+"La version de php sur ce serveur est trop ancienne. La classe ne peut "
+"fonctionner qu'avec une version égale ou supérieure à la version 4.1.0."
+
+#: openexemple/core/upload.class.php:629
+msgid "La propriete Extension est mal configuree."
+msgstr "La propriété Extension est mal configurée."
+
+#: openexemple/core/upload.class.php:630
+msgid "La propriete MimeType est mal configuree."
+msgstr "La propriété MimeType est mal configurée."
+
+#: openexemple/core/upload.class.php:631
+msgid "La propriete Filename est mal configuree."
+msgstr "La propriété Filename est mal configurée."
+
+#: openexemple/core/upload.class.php:632
+msgid "La propriete Debit est mal configuree."
+msgstr "La propriété Debit est mal configurée."
+
+#: openexemple/core/upload.class.php:633
+msgid "La propriete Required est mal configuree."
+msgstr "La propriété Required est mal configurée."
+
+#: openexemple/core/upload.class.php:634
+msgid "La propriete SecurityMax est mal configuree."
+msgstr "La propriété SecurityMax est mal configurée."
+
+#: openexemple/core/upload.class.php:635
+msgid "La propriete CheckReferer est mal configuree."
+msgstr "La propriété CheckReferer est mal configurée."
+
+#: openexemple/core/upload.class.php:646
+msgid "La propriete ImgMaxWidth est mal configuree."
+msgstr "La propriéte ImgMaxWidth est mal configurée."
+
+#: openexemple/core/upload.class.php:647
+msgid "La propriete ImgMaxHeight est mal configuree."
+msgstr "La propriété ImgMaxHeight est mal configurée."
+
+#: openexemple/core/upload.class.php:648
+msgid "La propriete ImgMinWidth est mal configuree."
+msgstr "La propriété ImgMinWidth est mal configurée."
+
+#: openexemple/core/upload.class.php:649
+msgid "La propriete ImgMinHeight est mal configuree."
+msgstr "La propriété ImgMinHeight est mal configurée."
+
+#: openexemple/core/upload.class.php:660
+msgid "Erreur classe Upload"
+msgstr "Erreur classe Upload"
+
+#: openexemple/core/om_formulaire.class.php:1677
+#: openexemple/core/om_formulaire.class.php:1730
+#: openexemple/core/om_formulaire.class.php:1810
+#: openexemple/core/om_formulaire.class.php:1864
+#: openexemple/core/om_formulaire.class.php:1896
+#: openexemple/core/om_formulaire.class.php:1914
+msgid "Cliquer ici pour correler"
+msgstr "Cliquer ici pour corréler"
+
+#: openexemple/core/om_formulaire.class.php:1678
+#: openexemple/core/om_formulaire.class.php:1731
+#: openexemple/core/om_formulaire.class.php:1811
+#: openexemple/core/om_formulaire.class.php:1865
+#: openexemple/core/om_formulaire.class.php:1897
+#: openexemple/core/om_formulaire.class.php:1915
+msgid "Correler"
+msgstr "Corréler"
+
+#: openexemple/core/om_formulaire.class.php:1934
+#: openexemple/core/om_formulaire.class.php:1964
+#: openexemple/core/om_formulaire.class.php:2010
+#: openexemple/core/om_formulaire.class.php:2138
+msgid ""
+"Le syteme de stockage n'est pas accessible. Erreur de parametrage. Contactez "
+"votre administrateur."
+msgstr ""
+"Le sytème de stockage n'est pas accessible. Erreur de paramétrage. Contactez "
+"votre administrateur."
+
+#: openexemple/core/om_formulaire.class.php:1946
+#: openexemple/core/om_formulaire.class.php:1993 openexemple/spg/voir.php:129
+#: openexemple/spg/file.php:85 openexemple/spg/file.php:137
+msgid "Le fichier n'existe pas ou n'est pas accessible."
+msgstr "Le fichier n'existe pas ou n'est pas accessible."
+
+#: openexemple/core/om_formulaire.class.php:1979
+msgid "Ouvrir le fichier"
+msgstr "Ouvrir le fichier"
+
+#: openexemple/core/om_formulaire.class.php:1981
+msgid "Visualiser"
+msgstr "Visualiser"
+
+#: openexemple/core/om_formulaire.class.php:1985
+msgid "Enregistrer le fichier"
+msgstr "Enregistrer le fichier"
+
+#: openexemple/core/om_formulaire.class.php:2601
+msgid "Cliquer pour aller a la fiche correspondante"
+msgstr "Cliquer pour aller à la fiche correspondante"
+
+#: openexemple/core/om_formulaire.class.php:2602
+#: openexemple/core/om_formulaire.class.php:2608
+msgid "aller"
+msgstr "aller"
+
+#: openexemple/core/om_formulaire.class.php:2607
+msgid "Cliquer pour aller a la fiche correspondante dans une nouvelle fenetre"
+msgstr "Cliquer pour aller à la fiche correspondante dans une nouvelle fenêtre"
+
+#: openexemple/core/om_formulaire.class.php:2980
+msgid "Cliquer ici pour envoyer un mail a cette adresse"
+msgstr "Cliquer ici pour envoyer un mail à cette adresse"
+
+#: openexemple/core/om_formulaire.class.php:2981
+msgid "MailTo"
+msgstr "MailTo"
+
+#: openexemple/core/gen.class.php:188 openexemple/scr/import.php:103
+msgid "Table"
+msgstr "Table"
+
+#: openexemple/core/gen.class.php:228 openexemple/core/gen.class.php:231
+#: openexemple/core/gen.class.php:708 openexemple/core/gen.class.php:711
+#: openexemple/core/gen.class.php:1167 openexemple/core/gen.class.php:1170
+#: openexemple/core/gen.class.php:1359 openexemple/core/gen.class.php:1362
+#: openexemple/core/gen.class.php:2264 openexemple/core/gen.class.php:2267
+msgid "Chargement du parametrage"
+msgstr "Chargement du paramétrage"
+
+#: openexemple/core/gen.class.php:495
+msgid "Generation de"
+msgstr "Génération de"
+
+#: openexemple/core/gen.class.php:500
+msgid "Aucun changement de"
+msgstr "Aucun changement de"
+
+#: openexemple/core/gen.class.php:505
+msgid "Erreur de droits d'ecriture sur"
+msgstr "Erreur de droits d'écriture sur"
+
+#: openexemple/core/gen.class.php:514
+msgid "Supression de"
+msgstr "Supression de"
+
+#: openexemple/core/gen.class.php:517
+msgid "Fichier inexistant ou illisible"
+msgstr "Fichier inexistant ou illisible"
+
+#: openexemple/core/gen.class.php:519
+msgid "Impossible de supprimer"
+msgstr "Impossible de supprimer"
+
+#: openexemple/core/gen.class.php:2491
+msgid "Le fichier existe"
+msgstr "Le fichier existe"
+
+#: openexemple/core/gen.class.php:2493
+msgid "Pas les droits d'ecriture sur le fichier"
+msgstr "Pas les droits d'écriture sur le fichier"
+
+#: openexemple/core/gen.class.php:2498
+msgid "Le dossier n'existe pas ou n'est pas accessible"
+msgstr "Le dossier n'existe pas ou n'est pas accessible"
+
+#: openexemple/core/gen.class.php:2500 openexemple/core/gen.class.php:2503
+msgid "Le fichier n'existe pas ou n'est pas accessible"
+msgstr "Le fichier n'existe pas ou n'est pas accessible"
+
+#: openexemple/core/gen.class.php:2501
+msgid "Pas les droits d'ecriture sur le dossier"
+msgstr "Pas les droits d'écriture sur le dossier"
+
+#: openexemple/core/gen.class.php:3141
+msgid ""
+"Generation impossible, aucune cle primaire n'est presente ou plusieurs cles "
+"primaires sont presentes dans la table"
+msgstr ""
+"Génération impossible, aucune clé primaire n'est présente ou plusieurs clés "
+"primaires sont présentes dans la table"
+
+#: openexemple/core/gen.class.php:3540
+msgid "analyse du modele de donnees"
+msgstr "analyse du modèle de données"
+
+#: openexemple/core/gen.class.php:3567
+msgid "Tables de la base de donnees"
+msgstr "Tables de la base de données"
+
+#: openexemple/core/gen.class.php:3572
+#: openexemple/core/obj/om_sig_map_comp.class.php:91
+msgid "Table :"
+msgstr "Table :"
+
+#: openexemple/core/gen.class.php:3573
+msgid "cle"
+msgstr "clé"
+
+#: openexemple/core/gen.class.php:3575
+msgid "cle automatique"
+msgstr "clé automatique"
+
+#: openexemple/core/gen.class.php:3577
+msgid "cle manuelle"
+msgstr "clé manuelle"
+
+#: openexemple/core/gen.class.php:3580
+msgid "longueur"
+msgstr "longueur"
+
+#: openexemple/core/gen.class.php:3580
+#: openexemple/core/obj/om_sousetat.class.php:257
+#: openexemple/scr/form_sig.php:62 openexemple/scr/requeteur.php:271
+#: openexemple/scr/requeteur.php:304
+msgid "enregistrement"
+msgstr "enregistrement"
+
+#: openexemple/core/gen.class.php:3584
+msgid "Champs"
+msgstr "Champs"
+
+#: openexemple/core/gen.class.php:3596
+msgid "Sous formulaire"
+msgstr "Sous-formulaire"
+
+#: openexemple/core/gen.class.php:3605
+msgid "Cle secondaire"
+msgstr "Clé secondaire"
+
+#: openexemple/core/om_table.class.php:988
+msgid "Aucun enregistrement."
+msgstr "Aucun enregistrement."
+
+#: openexemple/core/om_table.class.php:1164
+msgid "Envoyer un mail a cette adresse"
+msgstr "Envoyer un mail à cette adresse"
+
+#: openexemple/core/om_table.class.php:1415
+msgid "Recherche possible sur ce champ"
+msgstr "Recherche possible sur ce champ"
+
+#: openexemple/core/om_table.class.php:2280
+msgid "Utilisation de * pour zones de saisie"
+msgstr "Utilisation de * pour zones de saisie"
+
+#: openexemple/core/om_table.class.php:2283
+msgid "*ABC finit par 'ABC'."
+msgstr "*ABC finit par 'ABC'."
+
+#: openexemple/core/om_table.class.php:2287
+msgid "ABC* commence par 'ABC'."
+msgstr "ABC* commence par 'ABC'."
+
+#: openexemple/core/om_table.class.php:2291
+msgid "*ABC* contient 'ABC'."
+msgstr "*ABC* contient 'ABC'."
+
+#: openexemple/core/om_table.class.php:2294
+msgid "A*D peut correspondre a 'ABCD'."
+msgstr "A*D peut correspondre à 'ABCD'."
+
+#: openexemple/core/om_table.class.php:2297
+msgid "Par defaut * est ajoute au debut et a la fin des recherches."
+msgstr "Par defaut * est ajouté au debut et à la fin des recherches."
+
+#: openexemple/core/om_table.class.php:2300
+msgid "Par defaut * est toujours ajoute au debut des recherches."
+msgstr "Par defaut * est toujours ajouté au debut des recherches."
+
+#: openexemple/core/om_table.class.php:2304
+msgid "Par defaut * est toujours ajoute a la fin des recherches."
+msgstr "Par defaut * est toujours ajouté à la fin des recherches."
+
+#: openexemple/core/om_table.class.php:2313
+msgid "Rechercher"
+msgstr "Rechercher"
+
+#: openexemple/core/om_table.class.php:2375
+#: openexemple/core/obj/om_sousetat.class.php:220
+#: openexemple/core/obj/om_sousetat.class.php:229
+#: openexemple/core/obj/om_sousetat.class.php:236
+#: openexemple/core/obj/om_sousetat.class.php:243
+#: openexemple/core/obj/om_sousetat.class.php:250
+#: openexemple/core/obj/om_sousetat.class.php:257
+#: openexemple/core/obj/om_sousetat.class.php:264
+msgid "du"
+msgstr "du"
+
+#: openexemple/core/om_table.class.php:2389
+msgid "au"
+msgstr "au"
+
+#: openexemple/core/om_table.class.php:2463
+msgid "Vider le formulaire"
+msgstr "Vider le formulaire"
+
+#: openexemple/core/om_table.class.php:2644
+msgid "Masquer les elements expires"
+msgstr "Masquer les éléments expirés"
+
+#: openexemple/core/om_table.class.php:2647
+msgid "Afficher les elements expires"
+msgstr "Afficher les elements expirés"
+
+#: openexemple/core/om_table.class.php:2671
+msgid "Edition PDF"
+msgstr "Édition PDF"
+
+#: openexemple/core/om_table.class.php:2689 openexemple/scr/reqmo.php:10
+#: openexemple/scr/edition.php:11
+msgid "Export"
+msgstr "Export"
+
+#: openexemple/core/om_layout_jquerymobile.class.php:340
+msgid "Personnel"
+msgstr "Personnel"
+
+#: openexemple/core/om_layout_jquerymobile.class.php:943
+msgid "< Page"
+msgstr "< Page"
+
+#: openexemple/core/om_layout_jquerymobile.class.php:953
+msgid " / "
+msgstr " / "
+
+#: openexemple/core/om_layout_jquerymobile.class.php:982
+msgid "Page >"
+msgstr "Page >"
+
+#: openexemple/core/om_layout_jquerymobile.class.php:1437
+msgid "sortie"
+msgstr "sortie"
+
+#: openexemple/core/om_layout_jquerymobile.class.php:1439
+msgid "Tableau -Ecran"
+msgstr ""
+
+#: openexemple/core/om_layout_jquerymobile.class.php:1440
+msgid "CSV - Export vers tableur"
+msgstr "CSV - Export vers tableur"
+
+#: openexemple/core/om_layout_jquerymobile.class.php:1445
+msgid "Separateur(CSV)"
+msgstr "Séparateur (CSV)"
+
+#: openexemple/core/om_layout_jquerymobile.class.php:1454
+msgid "Nombre enregistrements<br>a afficher (Tableau)"
+msgstr "Nombre enregistrements à afficher (Tableau)"
+
+#: openexemple/core/om_layout_jquerymobile.class.php:1863
+msgid "\""
+msgstr ""
+
+#: openexemple/core/om_layout_jquerymobile.class.php:1876
+msgid "switcher"
+msgstr ""
+
+#: openexemple/core/om_logger.class.php:101
+msgid "Logger"
+msgstr "Logger"
+
+#: openexemple/core/om_dbform.class.php:371
+#: openexemple/core/om_dbform.class.php:539
+msgid "Requete executee"
+msgstr "Requête exécutée"
+
+#: openexemple/core/om_dbform.class.php:391
+#: openexemple/core/om_dbform.class.php:542
+#: openexemple/core/om_dbform.class.php:631
+msgid "Enregistrement"
+msgstr "Enregistrement"
+
+#: openexemple/core/om_dbform.class.php:392
+#: openexemple/core/om_dbform.class.php:543
+#: openexemple/core/om_dbform.class.php:632
+msgid "de la table"
+msgstr "de la table"
+
+#: openexemple/core/om_dbform.class.php:394
+msgid "enregistrement(s) ajoute(s)"
+msgstr "enregistrement(s) ajouté(s)"
+
+#: openexemple/core/om_dbform.class.php:397
+#: openexemple/core/om_dbform.class.php:551
+msgid "Vos modifications ont bien ete enregistrees."
+msgstr "Vos modifications ont bien été enregistrées."
+
+#: openexemple/core/om_dbform.class.php:402
+#: openexemple/core/om_dbform.class.php:557
+msgid "SAISIE NON ENREGISTREE"
+msgstr "SAISIE NON ENREGISTRÉE"
+
+#: openexemple/core/om_dbform.class.php:451
+msgid "L'\"identifiant\" est obligatoire"
+msgstr "L'\"identifiant\" est obligatoire"
+
+#: openexemple/core/om_dbform.class.php:466
+msgid "cle primaire existante"
+msgstr "clé primaire existante"
+
+#: openexemple/core/om_dbform.class.php:545
+msgid "enregistrement(s) mis a jour"
+msgstr "enregistrement(s) mis-à-jour"
+
+#: openexemple/core/om_dbform.class.php:549
+msgid "Attention vous n'avez fait aucune modification."
+msgstr "Attention vous n'avez fait aucune modification."
+
+#: openexemple/core/om_dbform.class.php:634
+msgid "enregistrement(s) supprime(s)"
+msgstr "enregistrement(s) supprimé(s)"
+
+#: openexemple/core/om_dbform.class.php:637
+msgid "La suppression a ete correctement effectuee."
+msgstr "La suppression a été correctement effectuée."
+
+#: openexemple/core/om_dbform.class.php:642
+msgid "SUPPRESSION NON EFFECTUEE"
+msgstr "SUPPRESSION NON EFFECTUÉE"
+
+#: openexemple/core/om_dbform.class.php:706
+msgid "La valeur saisie dans le champ"
+msgstr "La valeur saisie dans le champ"
+
+#: openexemple/core/om_dbform.class.php:706
+msgid "existe deja, veuillez saisir une nouvelle valeur."
+msgstr "existe déjà, veuillez saisir une nouvelle valeur."
+
+#: openexemple/core/om_dbform.class.php:726
+msgid "Les valeurs saisies dans les champs"
+msgstr "Les valeurs saisies dans les champs"
+
+#: openexemple/core/om_dbform.class.php:726
+msgid "existent deja, veuillez saisir de nouvelles valeurs."
+msgstr "existent déjà, veuillez saisir de nouvelles valeurs."
+
+#: openexemple/core/om_dbform.class.php:855
+#: openexemple/core/obj/om_sig_map.class.php:59
+msgid "Le champ"
+msgstr "Le champ"
+
+#: openexemple/core/om_dbform.class.php:855
+#: openexemple/core/obj/om_sig_map.class.php:59
+msgid "est obligatoire"
+msgstr "est obligatoire"
+
+#: openexemple/core/om_dbform.class.php:1116
+#: openexemple/core/om_dbform.class.php:1131
+msgid "Erreur lors de la creation du fichier sur le champ"
+msgstr "Erreur lors de la création du fichier sur le champ"
+
+#: openexemple/core/om_dbform.class.php:1125
+#: openexemple/core/om_dbform.class.php:1169
+#: openexemple/core/om_dbform.class.php:1225
+msgid "Le fichier sur le champ"
+msgstr "Le fichier sur le champ"
+
+#: openexemple/core/om_dbform.class.php:1126
+#: openexemple/core/om_dbform.class.php:1170
+#: openexemple/core/om_dbform.class.php:1226
+msgid "est verouille, veuillez revalider le formulaire."
+msgstr ""
+
+#: openexemple/core/om_dbform.class.php:1157
+#: openexemple/core/om_dbform.class.php:1175
+msgid "Erreur lors de la mise a jour du fichier sur le champ"
+msgstr ""
+
+#: openexemple/core/om_dbform.class.php:1230
+msgid "Erreur lors de la suppression du fichier sur le champ"
+msgstr ""
+
+#: openexemple/core/om_dbform.class.php:1274
+#: openexemple/core/om_dbform.class.php:1294
+#: openexemple/core/om_dbform.class.php:1314
+msgid "L'etat de l'enregistrement n'a pas pu etre réinitialisé"
+msgstr ""
+
+#: openexemple/core/om_dbform.class.php:1330
+msgid "Une erreur s'est produite. Contactez votre administrateur."
+msgstr "Une erreur s'est produite. Contactez votre administrateur."
+
+#: openexemple/core/om_dbform.class.php:1603
+msgid "ajouter"
+msgstr "ajouter"
+
+#: openexemple/core/om_dbform.class.php:1608
+#: openexemple/core/om_dbform.class.php:1613
+msgid "modifier"
+msgstr "modifier"
+
+#: openexemple/core/om_dbform.class.php:1618
+#: openexemple/core/om_dbform.class.php:1623
+#: openexemple/core/obj/om_utilisateur.class.php:25
+#: openexemple/core/obj/om_utilisateur.class.php:30
+#: openexemple/core/obj/om_collectivite.class.php:25
+#: openexemple/core/obj/om_collectivite.class.php:30
+msgid "supprimer"
+msgstr "supprimer"
+
+#: openexemple/core/om_dbform.class.php:1628
+msgid "consulter"
+msgstr "consulter"
+
+#: openexemple/core/om_dbform.class.php:2021
+msgid ""
+"Il y a actuellement un verrou sur cet element a cause d'une procedure "
+"anormale."
+msgstr ""
+"Il y a actuellement un verrou sur cet élement à cause d'une procedure "
+"anormale."
+
+#: openexemple/core/om_dbform.class.php:2024
+msgid "Le parametre de verrou dans le fichier var.inc est :"
+msgstr "Le paramètre de verrou dans le fichier var.inc est :"
+
+#: openexemple/core/om_dbform.class.php:2026
+msgid "Le verrou sur cet element est :"
+msgstr "Le verrou sur cet élément est :"
+
+#: openexemple/core/om_dbform.class.php:2026
+msgid "active"
+msgstr ""
+
+#: openexemple/core/om_dbform.class.php:2026
+msgid "desactive"
+msgstr ""
+
+#: openexemple/core/om_dbform.class.php:2119
+#: openexemple/core/om_dbform.class.php:2162 openexemple/scr/soustab.php:97
+#: openexemple/scr/tab.php:99
+msgid "Ajouter"
+msgstr "Ajouter"
+
+#: openexemple/core/om_dbform.class.php:2122
+#: openexemple/core/om_dbform.class.php:2165 openexemple/scr/sousform.php:92
+#: openexemple/scr/form.php:105
+msgid "Modifier"
+msgstr "Modifier"
+
+#: openexemple/core/om_dbform.class.php:2139
+#: openexemple/core/om_dbform.class.php:2183
+#: openexemple/scr/valid_copie.php:57
+msgid "l'enregistrement de la table"
+msgstr "l'enregistrement de la table"
+
+#: openexemple/core/om_dbform.class.php:2544
+msgid "L'action n'existe pas"
+msgstr "L'action n'existe pas"
+
+#: openexemple/core/om_dbform.class.php:2989
+#: openexemple/core/om_dbform.class.php:3019
+#: openexemple/core/om_dbform.class.php:3049
+#: openexemple/core/om_dbform.class.php:3079
+msgid "n'est pas une date valide"
+msgstr "n'est pas une date valide"
+
+#: openexemple/core/om_dbform.class.php:2990
+msgid "[calcul date php]"
+msgstr "[calcul date php]"
+
+#: openexemple/core/om_dbform.class.php:3020
+msgid "[calcul annee php]"
+msgstr "[calcul année php]"
+
+#: openexemple/core/om_dbform.class.php:3050
+msgid "[calcul mois php]"
+msgstr "[calcul mois php]"
+
+#: openexemple/core/om_dbform.class.php:3080
+msgid "[calcul jour php]"
+msgstr "[calcul jour php]"
+
+#: openexemple/core/om_dbform.class.php:3138
+msgid "enregistrement(s) lie(s) a cet enregistrement dans la table"
+msgstr "enregistrement(s) lié(s) à cet enregistrement dans la table"
+
+#: openexemple/core/om_dbform.class.php:3175
+msgid "choisir"
+msgstr "Choisir"
+
+#: openexemple/core/om_dbform.class.php:3337
+msgid "Cette action n'est pas disponible."
+msgstr "Cette action n'est pas disponible."
+
+#: openexemple/core/obj/om_sig_wms.class.php:73
+msgid "libelle : "
+msgstr "libellé :"
+
+#: openexemple/core/obj/om_sig_wms.class.php:74
+msgid "Type de flux : "
+msgstr ""
+
+#: openexemple/core/obj/om_sig_wms.class.php:75
+msgid "couches (séparées par ,) : "
+msgstr ""
+
+#: openexemple/core/obj/om_sig_wms.class.php:77
+#: openexemple/core/obj/om_sig_wms.class.php:85
+msgid "URL : "
+msgstr ""
+
+#: openexemple/core/obj/om_sig_wms.class.php:78
+#: openexemple/core/obj/om_sig_wms.class.php:79
+#: openexemple/core/obj/om_sig_map_wms.class.php:119
+#: openexemple/core/obj/om_sig_map_wms.class.php:120
+#: openexemple/core/obj/om_sig_map_wms.class.php:121
+#: openexemple/core/obj/om_sig_map_wms.class.php:122
+#: openexemple/core/obj/om_sig_map_wms.class.php:123
+#: openexemple/core/obj/om_sig_map_wms.class.php:124
+#: openexemple/core/obj/om_sig_map_wms.class.php:125
+#: openexemple/core/obj/om_sig_map_wms.class.php:126
+#: openexemple/core/obj/om_sig_map_wms.class.php:127
+#: openexemple/core/obj/om_sig_map_wms.class.php:129
+#: openexemple/core/obj/om_sig_map_wms.class.php:130
+#: openexemple/core/obj/om_sig_map_wms.class.php:131
+#: openexemple/core/obj/om_sig_map_wms.class.php:132
+#: openexemple/core/obj/om_sig_map_wms.class.php:133
+#: openexemple/core/obj/om_sig_map_wms.class.php:134
+#: openexemple/core/obj/om_sig_map_wms.class.php:135
+#: openexemple/core/obj/om_sig_map_wms.class.php:137
+msgid "sans objet"
+msgstr "sans objet"
+
+#: openexemple/core/obj/om_sig_wms.class.php:81
+msgid "URL ([EXTENT], [LAYERS]) : "
+msgstr ""
+
+#: openexemple/core/obj/om_sig_wms.class.php:82
+msgid "largeur carte dans composeur x 2 : "
+msgstr ""
+
+#: openexemple/core/obj/om_sig_wms.class.php:83
+msgid "hauteur carte dans composeur x 2 : "
+msgstr ""
+
+#: openexemple/core/obj/om_sig_wms.class.php:86
+msgid "URL pour GetFeatureInfo : "
+msgstr ""
+
+#: openexemple/core/obj/om_sig_wms.class.php:87
+msgid "couches pour GetFeatureInfo : "
+msgstr ""
+
+#: openexemple/core/obj/om_sig_wms.class.php:129
+msgid "adresse"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_wms.class.php:132
+msgid "paramètres"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:78
+msgid "flux WMS : "
+msgstr "flux WMS : "
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:79
+msgid "nom map OpenLayer : "
+msgstr "nom map OpenLayer : "
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:80
+#: openexemple/core/obj/om_sig_map_wms.class.php:118
+msgid "fond de carte :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:81
+msgid "niveau de zoom maximum :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:82
+msgid "ordre : "
+msgstr "ordre : "
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:83
+msgid "visible par défaut :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:84
+msgid "singletile OL :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:85
+msgid "panier :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:86
+msgid "nom du panier :"
+msgstr "nom du panier :"
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:87
+msgid "couche du panier :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:88
+msgid "attribut de la couche du panier :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:89
+msgid "caractère d'encapsulation de valeur panier :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:90
+msgid "requète d'union (&lst) du panier :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:91
+msgid "type de géometrie du panier :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:92
+msgid "requète de filtrage (&idx) :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:136
+msgid "requète de titres (&idx, &user) :"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:138
+msgid "requète de filtrage (&idx):"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:158
+msgid "Paramètres généraux"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:164
+msgid "Paramètres avancés"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:227
+msgid "niveau de zoom maximum obligatoire"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_wms.class.php:232
+msgid ""
+"Tous les champs de définitions du panier sont obligatoires à l'exception du "
+"caractère d'encapsulation"
+msgstr ""
+
+#: openexemple/core/obj/om_logo.class.php:88
+msgid ""
+"logo(s) existant(s) dans l'etat actif. Il n'est pas possible d'avoir plus "
+"d'un logo"
+msgstr ""
+"logo(s) existant(s) dans l'état actif. Il n'est pas possible d'avoir plus "
+"d'un logo"
+
+#: openexemple/core/obj/om_logo.class.php:90
+#: openexemple/core/obj/om_etat.class.php:357
+#: openexemple/core/obj/om_sousetat.class.php:632
+msgid "actif par collectivite."
+msgstr "actif par collectivité."
+
+#: openexemple/core/obj/om_widget.class.php:48
+msgid "web - le contenu du widget provient du champs texte ci-dessous"
+msgstr "web - le contenu du widget provient du champs texte ci-dessous"
+
+#: openexemple/core/obj/om_widget.class.php:49
+msgid "file - le contenu du widget provient d'un script sur le serveur"
+msgstr "file - le contenu du widget provient d'un script sur le serveur"
+
+#: openexemple/core/obj/om_widget.class.php:64
+msgid "script"
+msgstr ""
+
+#: openexemple/core/obj/om_widget.class.php:65
+msgid "arguments"
+msgstr ""
+
+#: openexemple/core/obj/om_widget.class.php:80
+msgid "Le script n'existe pas."
+msgstr "Le script n'existe pas."
+
+#: openexemple/core/obj/om_etat.class.php:54
+#: openexemple/core/obj/om_lettretype.class.php:54
+#: openexemple/gen/obj/om_requete.class.php:129
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:33
+msgid "merge_fields"
+msgstr "champs de fusion"
+
+#: openexemple/core/obj/om_etat.class.php:106
+#: openexemple/core/obj/om_lettretype.class.php:106
+#: openexemple/core/obj/om_sousetat.class.php:137
+msgid "portrait"
+msgstr "portrait"
+
+#: openexemple/core/obj/om_etat.class.php:106
+#: openexemple/core/obj/om_lettretype.class.php:106
+#: openexemple/core/obj/om_sousetat.class.php:137
+msgid "paysage"
+msgstr "paysage"
+
+#: openexemple/core/obj/om_etat.class.php:116
+#: openexemple/core/obj/om_lettretype.class.php:116
+#: openexemple/core/obj/om_sousetat.class.php:147
+msgid "normal"
+msgstr "normal"
+
+#: openexemple/core/obj/om_etat.class.php:116
+#: openexemple/core/obj/om_lettretype.class.php:116
+#: openexemple/core/obj/om_sousetat.class.php:147
+msgid "italique"
+msgstr "italique"
+
+#: openexemple/core/obj/om_etat.class.php:116
+#: openexemple/core/obj/om_lettretype.class.php:116
+#: openexemple/core/obj/om_sousetat.class.php:147
+msgid "gras"
+msgstr "gras"
+
+#: openexemple/core/obj/om_etat.class.php:116
+#: openexemple/core/obj/om_lettretype.class.php:116
+#: openexemple/core/obj/om_sousetat.class.php:147
+msgid "souligne"
+msgstr "souligné"
+
+#: openexemple/core/obj/om_etat.class.php:131
+#: openexemple/core/obj/om_lettretype.class.php:131
+#: openexemple/core/obj/om_sousetat.class.php:157
+msgid "gauche"
+msgstr "gauche"
+
+#: openexemple/core/obj/om_etat.class.php:131
+#: openexemple/core/obj/om_lettretype.class.php:131
+#: openexemple/core/obj/om_sousetat.class.php:157
+msgid "droite"
+msgstr "droite"
+
+#: openexemple/core/obj/om_etat.class.php:131
+#: openexemple/core/obj/om_lettretype.class.php:131
+#: openexemple/core/obj/om_sousetat.class.php:157
+msgid "justifie"
+msgstr "justifié"
+
+#: openexemple/core/obj/om_etat.class.php:131
+#: openexemple/core/obj/om_lettretype.class.php:131
+#: openexemple/core/obj/om_sousetat.class.php:157
+msgid "centre"
+msgstr "centré"
+
+#: openexemple/core/obj/om_etat.class.php:137
+#: openexemple/core/obj/om_lettretype.class.php:137
+#: openexemple/core/obj/om_sousetat.class.php:162
+msgid "sans"
+msgstr "sans"
+
+#: openexemple/core/obj/om_etat.class.php:137
+#: openexemple/core/obj/om_lettretype.class.php:137
+#: openexemple/core/obj/om_sousetat.class.php:162
+msgid "avec"
+msgstr "avec"
+
+#: openexemple/core/obj/om_etat.class.php:179
+#: openexemple/core/obj/om_lettretype.class.php:179
+msgid "Parametres generaux de l'edition"
+msgstr "Paramètres généraux de l'édition"
+
+#: openexemple/core/obj/om_etat.class.php:181
+#: openexemple/core/obj/om_lettretype.class.php:181
+msgid "Orientation et format"
+msgstr "Orientation et format"
+
+#: openexemple/core/obj/om_etat.class.php:183
+#: openexemple/core/obj/om_lettretype.class.php:183
+msgid "Logo et positionnement"
+msgstr "Logo et positionnement"
+
+#: openexemple/core/obj/om_etat.class.php:185
+#: openexemple/core/obj/om_lettretype.class.php:185
+msgid "Marges du document"
+msgstr ""
+
+#: openexemple/core/obj/om_etat.class.php:190
+#: openexemple/core/obj/om_lettretype.class.php:190
+msgid "Titre"
+msgstr "Titre"
+
+#: openexemple/core/obj/om_etat.class.php:192
+#: openexemple/core/obj/om_lettretype.class.php:192
+msgid "Parametres du titre de l'edition"
+msgstr "Paramètres du titre de l'édition"
+
+#: openexemple/core/obj/om_etat.class.php:193
+#: openexemple/core/obj/om_lettretype.class.php:193
+msgid "Positionnement"
+msgstr "Positionnement"
+
+#: openexemple/core/obj/om_etat.class.php:199
+#: openexemple/core/obj/om_lettretype.class.php:199
+msgid "Bordure"
+msgstr "Bordure"
+
+#: openexemple/core/obj/om_etat.class.php:203
+#: openexemple/core/obj/om_lettretype.class.php:203
+msgid "Corps"
+msgstr "Corps"
+
+#: openexemple/core/obj/om_etat.class.php:207
+#: openexemple/core/obj/om_lettretype.class.php:207
+msgid "Champ(s) de fusion"
+msgstr "Champ(s) de fusion"
+
+#: openexemple/core/obj/om_etat.class.php:210
+#: openexemple/core/obj/om_lettretype.class.php:210
+msgid "Sous-etat(s)"
+msgstr "Sous-état(s)"
+
+#: openexemple/core/obj/om_etat.class.php:226
+#: openexemple/core/obj/om_lettretype.class.php:226
+#: openexemple/core/obj/om_sousetat.class.php:429
+#: openexemple/core/obj/om_sousetat.class.php:507
+msgid "Texte du titre"
+msgstr "Texte du titre"
+
+#: openexemple/core/obj/om_etat.class.php:237
+#: openexemple/core/obj/om_lettretype.class.php:237
+msgid "Texte du corps"
+msgstr "Texte du corps"
+
+#: openexemple/core/obj/om_etat.class.php:314
+#: openexemple/core/obj/om_lettretype.class.php:314
+#, php-format
+msgid "Le champ %s ne peut pas contenir plusieurs occurences du sous-etat %s."
+msgstr ""
+
+#: openexemple/core/obj/om_etat.class.php:318
+#: openexemple/core/obj/om_lettretype.class.php:318
+#: openexemple/gen/obj/om_etat.class.php:395
+#: openexemple/gen/obj/om_lettretype.class.php:401
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:59
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:59
+msgid "corps_om_htmletatex"
+msgstr ""
+
+#: openexemple/core/obj/om_etat.class.php:355
+msgid ""
+"etat(s) existant(s) dans l'etat actif. Il n'est pas possible d'avoir plus "
+"d'un etat"
+msgstr ""
+"état(s) existant(s) dans l'état actif. Il n'est pas possible d'avoir plus "
+"d'un état"
+
+#: openexemple/core/obj/om_etat.class.php:374
+#: openexemple/core/obj/om_lettretype.class.php:374
+#: openexemple/core/obj/om_sousetat.class.php:649
+#, php-format
+msgid "copie du %s"
+msgstr ""
+
+#: openexemple/core/obj/om_etat.class.php:444
+#: openexemple/core/obj/om_lettretype.class.php:444
+#: openexemple/core/obj/om_sousetat.class.php:723
+msgid ""
+"La copie permet de dupliquer un enregistrement existant. Cette action est "
+"utilisee pour les etats, sous-etats, lettres types gerees en base de donnees."
+msgstr ""
+"La copie permet de dupliquer un enregistrement existant. Cette action est "
+"utilisée pour les etats, sous-etats, lettres types gérées en base de données."
+
+#: openexemple/core/obj/om_etat.class.php:449
+#: openexemple/core/obj/om_lettretype.class.php:449
+#: openexemple/core/obj/om_sousetat.class.php:728
+#: openexemple/scr/valid_copie.php:45
+msgid "Confirmation de la copie :"
+msgstr "Confirmation de la copie :"
+
+#: openexemple/core/obj/om_etat.class.php:453
+#, php-format
+msgid " Copie om_etat importé no%s : om_collectivite"
+msgstr ""
+
+#: openexemple/core/obj/om_etat.class.php:464
+#: openexemple/core/obj/om_lettretype.class.php:464
+#: openexemple/core/obj/om_sousetat.class.php:743
+#: openexemple/scr/valid_copie.php:49
+msgid ""
+"Pour confirmer la copie et donc l'ajout d'un nouvel enregistrement, cliquer "
+"sur le bouton suivant :"
+msgstr ""
+"Pour confirmer la copie et donc l'ajout d'un nouvel enregistrement, cliquer "
+"sur le bouton suivant :"
+
+#: openexemple/core/obj/om_lettretype.class.php:355
+msgid ""
+"lettre(s) type existante(s) dans l'etat actif. Il n'est pas possible d'avoir "
+"plus d'une lettre type"
+msgstr ""
+"lettre(s) type existante(s) dans l'état actif. Il n'est pas possible d'avoir "
+"plus d'une lettre type"
+
+#: openexemple/core/obj/om_lettretype.class.php:357
+msgid "active par collectivite."
+msgstr "active par collectivité."
+
+#: openexemple/core/obj/om_lettretype.class.php:453
+#, php-format
+msgid " Copie om_lettretype importé no%s : om_collectivite"
+msgstr ""
+
+#: openexemple/core/obj/om_utilisateur.class.php:78
+#: openexemple/core/obj/om_utilisateur.class.php:165
+msgid "Vous ne pouvez pas supprimer votre utilisateur."
+msgstr "Vous ne pouvez pas supprimer votre utilisateur."
+
+#: openexemple/core/obj/om_utilisateur.class.php:85
+msgid "SUPPRESSION IMPOSSIBLE"
+msgstr "SUPPRESSION IMPOSSIBLE"
+
+#: openexemple/core/obj/om_sig_map.class.php:59
+#: openexemple/core/sql/pgsql/om_etat.inc.php:15
+#: openexemple/core/sql/pgsql/om_etat.inc.php:27
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:17
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:35
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:15
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:27
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:15
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:27
+#: openexemple/core/sql/pgsql/om_logo.inc.php:15
+#: openexemple/core/sql/pgsql/om_logo.inc.php:30
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:14
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:37
+#: openexemple/gen/obj/om_sig_wms.class.php:202
+#: openexemple/gen/obj/om_logo.class.php:193
+#: openexemple/gen/obj/om_etat.class.php:381
+#: openexemple/gen/obj/om_lettretype.class.php:387
+#: openexemple/gen/obj/om_sig_map.class.php:289
+#: openexemple/gen/obj/om_sousetat.class.php:676
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:30
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:64
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:28
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:58
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:29
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:48
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:30
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:64
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:28
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:98
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:28
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:46
+msgid "id"
+msgstr "Identifiant"
+
+#: openexemple/core/obj/om_sig_map.class.php:178
+#: openexemple/core/obj/om_sousetat.class.php:167
+#: openexemple/core/obj/om_sousetat.class.php:362
+#: openexemple/core/obj/om_sousetat.class.php:374
+#: openexemple/core/obj/om_sousetat.class.php:381
+#: openexemple/core/obj/om_sousetat.class.php:382
+#: openexemple/core/obj/om_sousetat.class.php:391
+#: openexemple/core/obj/om_sousetat.class.php:394
+#: openexemple/core/obj/om_sousetat.class.php:398
+#: openexemple/core/obj/om_sousetat.class.php:401
+#: openexemple/core/obj/om_sousetat.class.php:405
+#: openexemple/core/obj/om_sousetat.class.php:408
+msgid "fond"
+msgstr "fond"
+
+#: openexemple/core/obj/om_sig_map.class.php:184
+#: openexemple/core/obj/om_sousetat.class.php:207
+#: openexemple/core/obj/om_sousetat.class.php:354
+#: openexemple/gen/obj/om_sousetat.class.php:679
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:92
+msgid "titre"
+msgstr "titre"
+
+#: openexemple/core/obj/om_sig_map.class.php:188
+#: openexemple/core/obj/om_sig_map.class.php:211
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:41
+#: openexemple/gen/obj/om_sig_map.class.php:297
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:36
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:65
+msgid "etendue"
+msgstr "étendue"
+
+#: openexemple/core/obj/om_sig_map.class.php:191
+msgid "marqueurs"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map.class.php:194
+#: openexemple/core/obj/om_sig_map_comp.class.php:109
+msgid "Mise a jour"
+msgstr "mise-à-jour"
+
+#: openexemple/core/obj/om_sig_map.class.php:208
+msgid "osm : "
+msgstr "osm:"
+
+#: openexemple/core/obj/om_sig_map.class.php:209
+msgid "bing : "
+msgstr "Bing :"
+
+#: openexemple/core/obj/om_sig_map.class.php:210
+msgid "sat : "
+msgstr "sat :"
+
+#: openexemple/core/obj/om_sig_map.class.php:212
+msgid "projection"
+msgstr "projection"
+
+#: openexemple/core/obj/om_sig_map.class.php:213
+#: openexemple/gen/obj/om_sig_map.class.php:299
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:52
+msgid "url"
+msgstr "URL"
+
+#: openexemple/core/obj/om_sig_map.class.php:214
+msgid "requete sql"
+msgstr "requête sql"
+
+#: openexemple/core/obj/om_sig_map.class.php:215
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:19
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:34
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:27
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:43
+#: openexemple/gen/obj/om_sig_map.class.php:301
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:38
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:67
+msgid "maj"
+msgstr "Mise-à-jour"
+
+#: openexemple/core/obj/om_sig_map.class.php:216
+msgid "nom geometrie"
+msgstr "nom géométrie"
+
+#: openexemple/core/obj/om_sig_map.class.php:217
+msgid "type de geometrie"
+msgstr "type de géométrie"
+
+#: openexemple/core/obj/om_sig_map.class.php:218
+msgid " table :"
+msgstr " table :"
+
+#: openexemple/core/obj/om_sig_map.class.php:253
+msgid "sig_map"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map.class.php:253
+#: openexemple/core/obj/om_collectivite.class.php:104
+msgid "existant"
+msgstr "existant"
+
+#: openexemple/core/obj/om_sig_map.class.php:254
+#: openexemple/core/obj/om_sig_map.class.php:255
+#: openexemple/core/sql/pgsql/om_etat.inc.php:17
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:18
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:33
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:31
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:45
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:17
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:17
+#: openexemple/core/sql/pgsql/om_logo.inc.php:20
+#: openexemple/gen/obj/om_logo.class.php:198
+#: openexemple/gen/obj/om_etat.class.php:383
+#: openexemple/gen/obj/om_lettretype.class.php:389
+#: openexemple/gen/obj/om_sig_map.class.php:291
+#: openexemple/gen/obj/om_sig_map_comp.class.php:188
+#: openexemple/gen/obj/om_sousetat.class.php:678
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:32
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:31
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:46
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:30
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:32
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:30
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:33
+msgid "actif"
+msgstr "actif"
+
+#: openexemple/core/obj/om_sig_map.class.php:254
+msgid "vous ne pouvez avoir qu un sig_map"
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map.class.php:255
+msgid "par collectivite"
+msgstr "par collectivité"
+
+#: openexemple/core/obj/om_sig_map_comp.class.php:86
+msgid "Nom géométrie : "
+msgstr ""
+
+#: openexemple/core/obj/om_sig_map_comp.class.php:87
+msgid "Actif : "
+msgstr "Actif : "
+
+#: openexemple/core/obj/om_sig_map_comp.class.php:88
+msgid "Ordre d'affichage : "
+msgstr "Ordre d'affichage : "
+
+#: openexemple/core/obj/om_sig_map_comp.class.php:89
+msgid "Mis a jour : "
+msgstr "Mis à jour : "
+
+#: openexemple/core/obj/om_sig_map_comp.class.php:90
+msgid "Type de geometrie : "
+msgstr "Type de géométrie : "
+
+#: openexemple/core/obj/om_sig_map_comp.class.php:92
+msgid "Champ :"
+msgstr "Champ :"
+
+#: openexemple/core/obj/om_collectivite.class.php:86
+msgid "mono"
+msgstr "mono"
+
+#: openexemple/core/obj/om_collectivite.class.php:86
+msgid "multi"
+msgstr "multi"
+
+#: openexemple/core/obj/om_collectivite.class.php:104
+#: openexemple/core/sql/pgsql/om_etat.inc.php:22
+#: openexemple/core/sql/pgsql/om_etat.inc.php:33
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:22
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:33
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:22
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:33
+#: openexemple/core/sql/pgsql/om_parametre.inc.php:20
+#: openexemple/core/sql/pgsql/om_parametre.inc.php:30
+#: openexemple/core/sql/pgsql/om_logo.inc.php:25
+#: openexemple/core/sql/pgsql/om_logo.inc.php:38
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:53
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:86
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:47
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:76
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:38
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:57
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:53
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:86
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:87
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:156
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:32
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:46
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:37
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:54
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:37
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:55
+msgid "collectivite"
+msgstr "Collectivité"
+
+#: openexemple/core/obj/om_collectivite.class.php:105
+#: openexemple/core/obj/om_collectivite.class.php:106
+#: openexemple/core/sql/pgsql/om_etat.inc.php:18
+#: openexemple/core/sql/pgsql/om_etat.inc.php:29
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:32
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:18
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:29
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:18
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:29
+#: openexemple/core/sql/pgsql/om_logo.inc.php:21
+#: openexemple/core/sql/pgsql/om_logo.inc.php:34
+#: openexemple/gen/obj/om_collectivite.class.php:105
+#: openexemple/gen/sql/pgsql/om_collectivite.inc.php:27
+#: openexemple/gen/sql/pgsql/om_collectivite.inc.php:36
+msgid "niveau"
+msgstr "niveau"
+
+#: openexemple/core/obj/om_collectivite.class.php:105
+msgid "vous ne pouvez avoir qu une collectivite"
+msgstr "vous ne pouvez avoir qu'une collectivité"
+
+#: openexemple/core/obj/om_collectivite.class.php:106
+msgid "de"
+msgstr "de"
+
+#: openexemple/core/obj/om_collectivite.class.php:130
+msgid "Vous ne pouvez pas supprimer de collectivite."
+msgstr "Vous ne pouvez pas supprimer de collectivité."
+
+#: openexemple/core/obj/om_sousetat.class.php:167
+msgid "transparent"
+msgstr "transparent"
+
+#: openexemple/core/obj/om_sousetat.class.php:207
+msgid "parametres"
+msgstr "paramètres"
+
+#: openexemple/core/obj/om_sousetat.class.php:220
+msgid "entete"
+msgstr "entête"
+
+#: openexemple/core/obj/om_sousetat.class.php:220
+#: openexemple/core/obj/om_sousetat.class.php:229
+#: openexemple/core/obj/om_sousetat.class.php:236
+#: openexemple/core/obj/om_sousetat.class.php:243
+#: openexemple/core/obj/om_sousetat.class.php:250
+#: openexemple/core/obj/om_sousetat.class.php:257
+#: openexemple/core/obj/om_sousetat.class.php:264
+msgid "tableau"
+msgstr "tableau"
+
+#: openexemple/core/obj/om_sousetat.class.php:229
+msgid "data"
+msgstr "data"
+
+#: openexemple/core/obj/om_sousetat.class.php:236
+#: openexemple/core/obj/om_sousetat.class.php:387
+#: openexemple/core/obj/om_sousetat.class.php:391
+#: openexemple/core/obj/om_sousetat.class.php:398
+#: openexemple/core/obj/om_sousetat.class.php:405
+msgid "cellule"
+msgstr "cellule"
+
+#: openexemple/core/obj/om_sousetat.class.php:243
+#: openexemple/core/obj/om_sousetat.class.php:413
+msgid "total"
+msgstr "total"
+
+#: openexemple/core/obj/om_sousetat.class.php:250
+#: openexemple/core/obj/om_sousetat.class.php:414
+msgid "moyenne"
+msgstr "moyenne"
+
+#: openexemple/core/obj/om_sousetat.class.php:257
+#: openexemple/core/obj/om_sousetat.class.php:415
+msgid "nombre"
+msgstr "nombre"
+
+#: openexemple/core/obj/om_sousetat.class.php:264
+msgid "operations"
+msgstr "opérations"
+
+#: openexemple/core/obj/om_sousetat.class.php:356
+#: openexemple/core/obj/om_sousetat.class.php:370
+#: openexemple/core/obj/om_sousetat.class.php:385
+#: openexemple/core/obj/om_sousetat.class.php:393
+#: openexemple/core/obj/om_sousetat.class.php:400
+#: openexemple/core/obj/om_sousetat.class.php:407
+msgid "hauteur"
+msgstr "hauteur"
+
+#: openexemple/core/obj/om_sousetat.class.php:357
+msgid "font"
+msgstr "font"
+
+#: openexemple/core/obj/om_sousetat.class.php:359
+#: openexemple/core/obj/om_sousetat.class.php:379
+#: openexemple/core/obj/om_sousetat.class.php:392
+#: openexemple/core/obj/om_sousetat.class.php:399
+#: openexemple/core/obj/om_sousetat.class.php:406
+msgid "taille"
+msgstr "taille"
+
+#: openexemple/core/obj/om_sousetat.class.php:360
+#: openexemple/core/obj/om_sousetat.class.php:372
+#: openexemple/core/obj/om_sousetat.class.php:378
+#: openexemple/core/obj/om_sousetat.class.php:380
+#: openexemple/core/obj/om_sousetat.class.php:387
+#: openexemple/core/obj/om_sousetat.class.php:388
+#: openexemple/core/obj/om_sousetat.class.php:395
+#: openexemple/core/obj/om_sousetat.class.php:402
+#: openexemple/core/obj/om_sousetat.class.php:409
+msgid "bordure"
+msgstr "bordure"
+
+#: openexemple/core/obj/om_sousetat.class.php:361
+#: openexemple/core/obj/om_sousetat.class.php:373
+#: openexemple/core/obj/om_sousetat.class.php:389
+#: openexemple/core/obj/om_sousetat.class.php:396
+#: openexemple/core/obj/om_sousetat.class.php:403
+#: openexemple/core/obj/om_sousetat.class.php:410
+msgid "align"
+msgstr "align"
+
+#: openexemple/core/obj/om_sousetat.class.php:363
+#: openexemple/gen/obj/om_widget.class.php:120
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:32
+msgid "texte"
+msgstr "texte"
+
+#: openexemple/core/obj/om_sousetat.class.php:364
+msgid "intervalle"
+msgstr "intervalle"
+
+#: openexemple/core/obj/om_sousetat.class.php:364
+msgid "debut"
+msgstr "début"
+
+#: openexemple/core/obj/om_sousetat.class.php:365
+#: openexemple/core/obj/om_sousetat.class.php:368
+msgid "fin"
+msgstr "fin"
+
+#: openexemple/core/obj/om_sousetat.class.php:367
+msgid "flag"
+msgstr "flag"
+
+#: openexemple/core/obj/om_sousetat.class.php:369
+#: openexemple/gen/obj/om_etat.class.php:384
+#: openexemple/gen/obj/om_lettretype.class.php:390
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:33
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:66
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:33
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:66
+msgid "orientation"
+msgstr "orientation"
+
+#: openexemple/core/obj/om_sousetat.class.php:375
+msgid "couleur"
+msgstr "couleur"
+
+#: openexemple/core/obj/om_sousetat.class.php:377
+#: openexemple/core/obj/om_sousetat.class.php:386
+msgid "largeur"
+msgstr "largeur"
+
+#: openexemple/core/obj/om_sousetat.class.php:381
+msgid "un"
+msgstr "un"
+
+#: openexemple/core/obj/om_sousetat.class.php:382
+msgid "deux"
+msgstr "deux"
+
+#: openexemple/core/obj/om_sousetat.class.php:412
+msgid "numerique"
+msgstr "numérique"
+
+#: openexemple/core/obj/om_sousetat.class.php:417
+#: openexemple/gen/obj/om_etat.class.php:396
+#: openexemple/gen/obj/om_lettretype.class.php:402
+#: openexemple/gen/obj/om_sig_map.class.php:300
+#: openexemple/gen/obj/om_sousetat.class.php:733
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:43
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:76
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:53
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:43
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:76
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:93
+msgid "om_sql"
+msgstr "SQL"
+
+#: openexemple/core/obj/om_sousetat.class.php:596
+msgid ""
+"La hauteur des cellules doit etre inferieure ou egale a la taille des "
+"donnees du tableau"
+msgstr ""
+
+#: openexemple/core/obj/om_sousetat.class.php:630
+msgid ""
+"sous-etat(s) existant(s) dans l'etat actif. Il n'est pas possible d'avoir "
+"plus d'un sous-etat"
+msgstr ""
+"sous-état(s) existant(s) dans l'état actif. Il n'est pas possible d'avoir "
+"plus d'un sous-état"
+
+#: openexemple/core/obj/om_sousetat.class.php:732
+#, php-format
+msgid " Copie om_sousetat importé no%s : om_collectivite"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_etat.inc.php:16
+#: openexemple/core/sql/pgsql/om_etat.inc.php:28
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:18
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:36
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:16
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:28
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:16
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:28
+#: openexemple/core/sql/pgsql/om_parametre.inc.php:15
+#: openexemple/core/sql/pgsql/om_parametre.inc.php:25
+#: openexemple/core/sql/pgsql/om_logo.inc.php:16
+#: openexemple/core/sql/pgsql/om_logo.inc.php:31
+#: openexemple/gen/obj/om_sig_wms.class.php:200
+#: openexemple/gen/obj/om_parametre.class.php:151
+#: openexemple/gen/obj/om_logo.class.php:194
+#: openexemple/gen/obj/om_widget.class.php:118
+#: openexemple/gen/obj/om_profil.class.php:104
+#: openexemple/gen/obj/om_droit.class.php:120
+#: openexemple/gen/obj/om_etat.class.php:382
+#: openexemple/gen/obj/om_requete.class.php:126
+#: openexemple/gen/obj/om_lettretype.class.php:388
+#: openexemple/gen/obj/om_sig_map.class.php:290
+#: openexemple/gen/obj/om_sig_map_comp.class.php:186
+#: openexemple/gen/obj/om_collectivite.class.php:104
+#: openexemple/gen/obj/om_sousetat.class.php:677
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:31
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:65
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:29
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:44
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:29
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:59
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:26
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:37
+#: openexemple/gen/sql/pgsql/om_collectivite.inc.php:26
+#: openexemple/gen/sql/pgsql/om_collectivite.inc.php:35
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:28
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:47
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:31
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:65
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:29
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:99
+#: openexemple/gen/sql/pgsql/om_profil.inc.php:26
+#: openexemple/gen/sql/pgsql/om_profil.inc.php:35
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:27
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:39
+#: openexemple/gen/sql/pgsql/om_droit.inc.php:28
+#: openexemple/gen/sql/pgsql/om_droit.inc.php:37
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:28
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:42
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:29
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:47
+msgid "libelle"
+msgstr "libellé"
+
+#: openexemple/core/sql/pgsql/om_etat.inc.php:41
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:52
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:72
+#: openexemple/core/sql/pgsql/om_lettretype.inc.php:41
+#: openexemple/core/sql/pgsql/om_sousetat.inc.php:41
+#: openexemple/core/sql/pgsql/om_logo.inc.php:46
+#: openexemple/scr/valid_copie.php:56
+msgid "Copier"
+msgstr "Copier"
+
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:14
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:29
+#: openexemple/gen/obj/om_sig_map_comp.class.php:184
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:27
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:42
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.form.inc.php:7
+msgid "om_sig_map_comp"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:16
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:31
+#: openexemple/gen/obj/om_utilisateur.class.php:206
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:30
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:48
+msgid "nom"
+msgstr "nom"
+
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:17
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:32
+msgid "ord"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:20
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:35
+msgid "rype"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:21
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:36
+#: openexemple/scr/genauto.php:40 openexemple/scr/genfull.php:72
+#: openexemple/scr/gensup.php:40
+msgid "table"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:22
+#: openexemple/core/sql/pgsql/om_sig_map_comp.inc.php:37
+#: openexemple/gen/obj/om_sig_map.class.php:303
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:40
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:69
+msgid "champ"
+msgstr "champ"
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:20
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:37
+#: openexemple/gen/obj/om_sig_map.class.php:292
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:31
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:60
+msgid "zoom"
+msgstr "zoom"
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:21
+msgid "osm"
+msgstr "osm"
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:22
+msgid "bing"
+msgstr "bing"
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:23
+msgid "sat"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:24
+msgid "info"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:38
+#: openexemple/gen/obj/om_sig_map.class.php:293
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:32
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:61
+msgid "fond_osm"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:39
+#: openexemple/gen/obj/om_sig_map.class.php:294
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:33
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:62
+msgid "fond_bing"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:40
+#: openexemple/gen/obj/om_sig_map.class.php:295
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:34
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:63
+msgid "fond_sat"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:42
+#: openexemple/gen/obj/om_sig_map.class.php:298
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:37
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:66
+msgid "projection_externe"
+msgstr "Projection externe"
+
+#: openexemple/core/sql/pgsql/om_sig_map.inc.php:44
+#: openexemple/gen/obj/om_sig_map.class.php:302
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:39
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:68
+msgid "table_update"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_dashboard.inc.php:13
+#: openexemple/gen/obj/om_dashboard.class.php:153
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:8
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:29
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:40
+#: openexemple/gen/sql/pgsql/om_dashboard.form.inc.php:7
+msgid "om_dashboard"
+msgstr "tableau de bord"
+
+#: openexemple/core/sql/pgsql/om_parametre.inc.php:16
+#: openexemple/core/sql/pgsql/om_parametre.inc.php:26
+#: openexemple/gen/obj/om_parametre.class.php:152
+#: openexemple/gen/sql/pgsql/om_parametre.inc.php:36
+msgid "valeur"
+msgstr "valeur"
+
+#: openexemple/core/sql/pgsql/om_logo.inc.php:17
+#: openexemple/core/sql/pgsql/om_logo.inc.php:32
+#: openexemple/gen/obj/om_logo.class.php:195
+#: openexemple/gen/obj/om_requete.class.php:127
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:28
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:40
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:30
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:48
+msgid "description"
+msgstr "description"
+
+#: openexemple/core/sql/pgsql/om_logo.inc.php:18
+#: openexemple/scr/genlettretype.php:71 openexemple/scr/genauto.php:137
+#: openexemple/scr/genimport.php:120 openexemple/scr/gensousetat.php:75
+#: openexemple/scr/gensup.php:118 openexemple/scr/genetat.php:71
+#: openexemple/gen/obj/om_logo.class.php:196
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:31
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:49
+msgid "fichier"
+msgstr "fichier"
+
+#: openexemple/core/sql/pgsql/om_logo.inc.php:19
+#: openexemple/core/sql/pgsql/om_logo.inc.php:33
+#: openexemple/gen/obj/om_logo.class.php:197
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:32
+#: openexemple/gen/sql/pgsql/om_logo.inc.php:50
+msgid "resolution"
+msgstr "résolution"
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:16
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:39
+msgid "flux"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:17
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:40
+msgid "nom OL"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:18
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:41
+msgid "base"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:19
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:42
+#: openexemple/gen/obj/om_sig_map_wms.class.php:283
+#: openexemple/gen/obj/om_sig_map_comp.class.php:187
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:30
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:45
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:33
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:56
+msgid "ordre"
+msgstr "ordre"
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:20
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:43
+msgid "vis."
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:21
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:44
+#: openexemple/gen/obj/om_sig_map_wms.class.php:285
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:35
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:58
+msgid "panier"
+msgstr "panier"
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:25
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:45
+#: openexemple/gen/obj/om_sig_map_wms.class.php:286
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:36
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:59
+msgid "pa_nom"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:26
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:46
+#: openexemple/gen/obj/om_sig_map_wms.class.php:287
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:37
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:60
+msgid "pa_layer"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:27
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:47
+#: openexemple/gen/obj/om_sig_map_wms.class.php:290
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:47
+msgid "pa_sql"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:28
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:48
+#: openexemple/gen/obj/om_sig_map_wms.class.php:288
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:38
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:61
+msgid "pa_attribut"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:29
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:49
+#: openexemple/gen/obj/om_sig_map_wms.class.php:289
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:39
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:62
+msgid "pa_encaps"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:30
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:50
+#: openexemple/gen/obj/om_sig_map_wms.class.php:291
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:40
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:63
+msgid "pa_type_geometrie"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:31
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:51
+#: openexemple/gen/obj/om_sig_map_wms.class.php:292
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:48
+msgid "sql_filter"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:32
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:52
+#: openexemple/gen/obj/om_sig_map_wms.class.php:294
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:42
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:65
+msgid "singletile"
+msgstr ""
+
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:33
+#: openexemple/core/sql/pgsql/om_sig_map_wms.inc.php:53
+#: openexemple/gen/obj/om_sig_map_wms.class.php:295
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:43
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:66
+msgid "maxzoomlevel"
+msgstr ""
+
+#: openexemple/scr/genlettretype.php:19
+msgid ""
+"cet assistant vous permet de creer des lettres type directement a partir de "
+"vos tables "
+msgstr ""
+"cet assistant vous permet de créer des lettres type directement à partir de "
+"vos tables "
+
+#: openexemple/scr/genlettretype.php:69 openexemple/scr/gensousetat.php:73
+#: openexemple/scr/genetat.php:69
+msgid "Choix table :"
+msgstr "Choix table :"
+
+#: openexemple/scr/genlettretype.php:94 openexemple/scr/gensousetat.php:98
+#: openexemple/scr/genetat.php:94
+msgid "choix des champs"
+msgstr "choix des champs"
+
+#: openexemple/scr/genlettretype.php:105 openexemple/scr/genimport.php:161
+#: openexemple/scr/gensousetat.php:117 openexemple/scr/genetat.php:105
+msgid "Import"
+msgstr "Import"
+
+#: openexemple/scr/genlettretype.php:106 openexemple/scr/genimport.php:162
+#: openexemple/scr/gensousetat.php:118 openexemple/scr/genetat.php:106
+msgid "dans la base"
+msgstr "dans la base"
+
+#: openexemple/scr/genlettretype.php:202 openexemple/scr/genetat.php:209
+msgid "Requete"
+msgstr "Requête"
+
+#: openexemple/scr/genlettretype.php:227 openexemple/scr/gensousetat.php:274
+#: openexemple/scr/genetat.php:234
+msgid "enregistre"
+msgstr "enregistré"
+
+#: openexemple/scr/gen.php:18 openexemple/scr/genauto.php:19
+#: openexemple/scr/genfull.php:19 openexemple/scr/gensup.php:19
+msgid "base de donnees"
+msgstr "base de données"
+
+#: openexemple/scr/gen.php:26 openexemple/scr/genauto.php:27
+#: openexemple/scr/genfull.php:27 openexemple/scr/gensup.php:27
+#, fuzzy
+msgid ""
+"Le generateur ne prend pas en charge le type de base de donnees \n"
+"        utilise."
+msgstr ""
+"Le générateur ne prend pas en charge le type de base de données que vous "
+"utilisez :"
+
+#: openexemple/scr/gen.php:46
+msgid "generation basee sur les tables de la base de donnees"
+msgstr "generation basée sur les tables de la base de données"
+
+#: openexemple/scr/gen.php:69
+msgid "Generer tous les objets"
+msgstr "Générer tous les objets"
+
+#: openexemple/scr/gen.php:73
+msgid "Etes vous sur de vouloir tout generer ?"
+msgstr "Êtes vous sur de vouloir tout générer ?"
+
+#: openexemple/scr/gen.php:75
+msgid ""
+"Cela aura pour effet d'ecraser tous les fichiers existant du dossier gen/ et "
+"creer les fichiers dans sql/ et obj/ s'ils n'existent pas."
+msgstr ""
+
+#: openexemple/scr/gen.php:125
+msgid "assistants"
+msgstr "assistants"
+
+#: openexemple/scr/gen.php:131
+msgid "Migration etat, sous etat, lettre type"
+msgstr "Migration état, sous-état, lettre type"
+
+#: openexemple/scr/gen.php:135
+msgid "Creation etat"
+msgstr "Création d'état"
+
+#: openexemple/scr/gen.php:139
+msgid "Creation sous etat"
+msgstr "Création sous-état"
+
+#: openexemple/scr/gen.php:143
+msgid "Creation lettre type"
+msgstr "Création lettre-type"
+
+#: openexemple/scr/genauto.php:15
+msgid "generation"
+msgstr "génération"
+
+#: openexemple/scr/genauto.php:113 openexemple/scr/gensup.php:94
+msgid "selection des fichiers"
+msgstr "sélection des fichiers"
+
+#: openexemple/scr/genauto.php:144 openexemple/scr/gensup.php:125
+msgid "informations"
+msgstr "informations"
+
+#: openexemple/scr/copie.php:23
+msgid "copie"
+msgstr "copie"
+
+#: openexemple/scr/copie.php:28
+msgid "Copie "
+msgstr "Copie "
+
+#: openexemple/scr/copie.php:45 openexemple/scr/genimport.php:333
+#: openexemple/scr/genimport.php:386
+msgid "importe"
+msgstr "importé"
+
+#: openexemple/scr/directory.php:19
+msgid "Annuaire"
+msgstr "Annuaire"
+
+#: openexemple/scr/directory.php:23
+msgid ""
+"Cette page vous permet de synchroniser vos utilisateurs depuis un annuaire."
+msgstr ""
+"Cette page vous permet de synchroniser vos utilisateurs depuis un annuaire."
+
+#: openexemple/scr/directory.php:43
+msgid "Synchronisation des utilisateurs"
+msgstr "Synchronisation des utilisateurs"
+
+#: openexemple/scr/directory.php:48 openexemple/scr/directory.php:54
+#: openexemple/scr/directory.php:60
+msgid "Il y a"
+msgstr "Il y a"
+
+#: openexemple/scr/directory.php:49
+msgid ""
+"utilisateur(s) present(s) dans l'annuaire et non present(s) dans la base"
+msgstr ""
+"utilisateur(s) présent(s) dans l'annuaire et non présent(s) dans la base"
+
+#: openexemple/scr/directory.php:50
+msgid "ajout(s)"
+msgstr "ajoût(s)"
+
+#: openexemple/scr/directory.php:55
+msgid ""
+"utilisateur(s) present(s) dans la base et non present(s) dans l'annuaire"
+msgstr ""
+"utilisateur(s) présent(s) dans la base et non présent(s) dans l'annuaire"
+
+#: openexemple/scr/directory.php:56
+msgid "suppression(s)"
+msgstr "suppression(s)"
+
+#: openexemple/scr/directory.php:61
+msgid "utilisateur(s) present(s) a la fois dans la base et l'annuaire"
+msgstr "utilisateur(s) présent(s) à la fois dans la base et l'annuaire"
+
+#: openexemple/scr/directory.php:62
+msgid "mise(s) a jour"
+msgstr "mise(s) à jour"
+
+#: openexemple/scr/directory.php:66
+msgid "Synchroniser"
+msgstr "Synchroniser"
+
+#: openexemple/scr/password.php:12
+msgid "Mon compte"
+msgstr "Mon compte"
+
+#: openexemple/scr/password.php:17
+msgid ""
+"Cette page vous permet de changer votre mot de passe. Pour cela, il vous "
+"suffit de saisir votre mot de passe actuel puis votre nouveau mot de passe "
+"deux fois."
+msgstr ""
+"Cette page vous permet de changer votre mot de passe. Pour cele, il vous "
+"suffit de saisir votre mot de passe actuel puis votre nouveau mot de passe "
+"deux fois."
+
+#: openexemple/scr/password.php:56
+msgid "Mot de passe actuel incorrect"
+msgstr "Mot de passe actuel incorrect"
+
+#: openexemple/scr/password.php:63
+msgid "Nouveau mot de passe incorrect"
+msgstr "Nouveau mot de passe incorrect"
+
+#: openexemple/scr/password.php:73
+msgid "Votre mot de passe a ete change correctement"
+msgstr "Votre mot de passe a été changé correctement"
+
+#: openexemple/scr/password.php:96
+msgid "Mot de passe actuel"
+msgstr "Mot de passe actuel"
+
+#: openexemple/scr/password.php:106
+msgid "Confirmation du nouveau mot de passe"
+msgstr "Confirmation du nouveau mot de passe"
+
+#: openexemple/scr/reqmo.php:10 openexemple/scr/requeteur.php:55
+msgid "Requetes memorisees"
+msgstr "Requêtes mémorisées"
+
+#: openexemple/scr/reqmo.php:15
+msgid ""
+"Les requetes memorisees permettent d'exporter des donnees de la base de "
+"donnees pour une utilisation externe a l'application. Veuillez cliquer sur "
+"l'objet a exporter pour atteindre un formulaire vous permettant de choisir "
+"les parametres de l'export."
+msgstr ""
+"Les requêtes mémorisées permettent d'exporter des données de la base-de-"
+"données pour une utilisation externe à l'application. Veuillez cliquer sur "
+"l'objet à exporter pour accéder à un formulaire vous permettant de choisir "
+"les paramètres de l'export."
+
+#: openexemple/scr/reqmo.php:79
+msgid "Choix de la requete memorisee"
+msgstr "Choix de la requête mémorisée"
+
+#: openexemple/scr/reqmo.php:85
+msgid "Il n'y a aucun element de ce type dans l'application."
+msgstr "Il n'y a aucun élément de ce type dans l'application."
+
+#: openexemple/scr/soustab.php:105 openexemple/scr/tab.php:107
+msgid "Consulter"
+msgstr "Consulter"
+
+#: openexemple/scr/form_sig.php:62
+msgid "objet"
+msgstr "objet"
+
+#: openexemple/scr/form_sig.php:150
+msgid "mise a jour"
+msgstr "mise à jour"
+
+#: openexemple/scr/form_sig.php:150
+msgid "effectuee"
+msgstr "effectuée"
+
+#: openexemple/scr/form_sig.php:169
+msgid "geometrie"
+msgstr "géométrie"
+
+#: openexemple/scr/form_sig.php:169
+msgid "supprimee"
+msgstr "supprimée"
+
+#: openexemple/scr/form_sig.php:179
+msgid "Vous n'avez pas les permissions."
+msgstr "Vous n'avez pas les permissions."
+
+#: openexemple/scr/valid_copie.php:19
+msgid "Copie"
+msgstr "Copie"
+
+#: openexemple/scr/valid_copie.php:33
+msgid ""
+"La copie permet de dupliquer un enregistrement existant. Cette action est "
+"utilisee pour les etats, sous-etats, lettres types geres en base de donnees."
+msgstr ""
+"La copie permet de dupliquer un enregistrement existant. Cette action est "
+"utilisée pour les états, sous-états, lettres types gérées en base de données."
+
+#: openexemple/scr/travail_tab_sig.php:71
+#: openexemple/scr/travail_tab_sig.php:142
+#: openexemple/scr/travail_tab_sig.php:167
+#: openexemple/scr/travail_tab_sig.php:213 openexemple/scr/tab_sig.php:65
+#: openexemple/scr/tab_sig.php:129 openexemple/scr/tab_sig.php:151
+#: openexemple/scr/tab_sig.php:169 openexemple/scr/tab_sig.php:209
+msgid " ERREUR SQL "
+msgstr ""
+
+#: openexemple/scr/travail_tab_sig.php:318 openexemple/scr/tab_sig.php:297
+msgid "Dessiner"
+msgstr "Dessiner"
+
+#: openexemple/scr/travail_tab_sig.php:319 openexemple/scr/tab_sig.php:298
+msgid "Enregistrer"
+msgstr "Enregistrer"
+
+#: openexemple/scr/travail_tab_sig.php:320 openexemple/scr/tab_sig.php:299
+msgid "Data"
+msgstr "Data"
+
+#: openexemple/scr/travail_tab_sig.php:321
+msgid "Deplacer"
+msgstr ""
+
+#: openexemple/scr/travail_tab_sig.php:323
+msgid "Panier"
+msgstr ""
+
+#: openexemple/scr/travail_tab_sig.php:333 openexemple/scr/tab_sig.php:307
+msgid "le champ sélectionné n'est pas déclaré dans om_sig_map_comp"
+msgstr ""
+
+#: openexemple/scr/genfull.php:15
+msgid "generation complete"
+msgstr "génération complète"
+
+#: openexemple/scr/genfull.php:125
+msgid "Erreur de droits d'ecriture lors de la generation des fichiers"
+msgstr "Erreur de droits d'écriture lors de la génération des fichiers"
+
+#: openexemple/scr/password_reset.php:42 openexemple/scr/password_reset.php:51
+#: openexemple/scr/password_reset.php:90
+msgid ""
+"Votre identifiant est incorrect, ou ne vous permet pas de redefinir votre "
+"mot de passe de cette maniere. Contactez votre administrateur."
+msgstr ""
+"Votre identifiant est incorrect, ou ne vous permet pas de redefinir votre "
+"mot de passe de cette manière. Contactez votre administrateur."
+
+#: openexemple/scr/password_reset.php:69
+msgid "Confirmation de reinitialisation du mot de passe "
+msgstr "Confirmation de ré-initialisation du mot de passe"
+
+#: openexemple/scr/password_reset.php:72
+msgid "Vous avez demande la reinitialisation de votre mot de passe "
+msgstr "Vous avez demandé la ré-initialisation de votre mot de passe "
+
+#: openexemple/scr/password_reset.php:73
+msgid "Pour finaliser votre demande, veuillez cliquer sur ce lien"
+msgstr "Pour finaliser votre demande, veuillez cliquer sur ce lien"
+
+#: openexemple/scr/password_reset.php:82
+msgid ""
+"Un message de demande de reinitialisation de mot de passe vous a ete envoye "
+"sur votre messagerie."
+msgstr ""
+"Un message de demande de ré-initialisation de mot de passe vous a été envoyé "
+"sur votre messagerie."
+
+#: openexemple/scr/dashboard_composer.php:39
+msgid "Tableau de bord pour le profil"
+msgstr "Tableau de bord pour le profil"
+
+#: openexemple/scr/dashboard_composer.php:70
+msgid "choisir le profil"
+msgstr "choisir le profil"
+
+#: openexemple/scr/dashboard_composer.php:124
+msgid "Ajouter un widget"
+msgstr "Ajouter un widget"
+
+#: openexemple/scr/genimport.php:17
+msgid "import des anciennes editions"
+msgstr "import des anciennes éditions"
+
+#: openexemple/scr/genimport.php:69
+msgid ""
+"Cette page vous permet d'importer les anciens etat, sousetat, lettretype "
+"contenu en repertoire /inc directement dans les tables d openMairie 4 "
+msgstr ""
+"Cette page vous permet d'importer les anciens états, sous-états, lettres-"
+"types contenus en repertoire /inc directement dans les tables d'openMairie 4 "
+
+#: openexemple/scr/genimport.php:117
+msgid "Choix du fichier d'import :"
+msgstr "Choix du fichier d'import :"
+
+#: openexemple/scr/genimport.php:145 openexemple/scr/genimport.php:176
+msgid "Import du fichier "
+msgstr "Import du fichier "
+
+#: openexemple/scr/edition.php:16
+msgid ""
+"Cette page vous permet de visualiser les editions disponibles dans "
+"l'application."
+msgstr ""
+"Cette page vous permet de visualiser les éditions disponibles dans "
+"l'application."
+
+#: openexemple/scr/edition.php:76
+msgid "Choix de l'edition"
+msgstr "Choix de l'édition"
+
+#: openexemple/scr/import.php:21
+msgid ""
+"Cette page vous permet d'importer des donnees au format CSV directement dans "
+"la base de donnees."
+msgstr ""
+"Cette page vous permet d'importer des données au format CSV directement dans "
+"la base de données."
+
+#: openexemple/scr/import.php:96
+msgid "Choix de la table d'import :"
+msgstr "Choix de la table d'import :"
+
+#: openexemple/scr/import.php:138
+msgid "Import du fichier CSV :"
+msgstr "Import du fichier CSV :"
+
+#: openexemple/scr/import.php:153
+msgid "Vous n'avez pas selectionne de fichier a importer."
+msgstr "Vous n'avez pas selectionné de fichier à importer."
+
+#: openexemple/scr/import.php:172
+msgid "Le fichier n'existe pas."
+msgstr "Le fichier n'existe pas."
+
+#: openexemple/scr/import.php:230 openexemple/scr/import.php:232
+msgid "champ obligatoire vide"
+msgstr "champ obligatoire vide"
+
+#: openexemple/scr/import.php:256 openexemple/scr/import.php:258
+msgid "cle secondaire inexistante"
+msgstr "Clé secondaire inexistante"
+
+#: openexemple/scr/import.php:313
+msgid "Resultat de l'import :"
+msgstr "Résultat de l'import"
+
+#: openexemple/scr/import.php:314
+msgid "ligne(s) dans le fichier"
+msgstr "ligne(s) dans le fichier"
+
+#: openexemple/scr/import.php:315
+msgid "ligne(s) vide(s)"
+msgstr "ligne(s) vide(s)"
+
+#: openexemple/scr/import.php:316
+msgid "ligne(s) d'entete"
+msgstr "ligne(s) d'entête"
+
+#: openexemple/scr/import.php:317
+msgid "ligne(s) importee(s)"
+msgstr "ligne(s) importée(s)"
+
+#: openexemple/scr/import.php:318
+msgid "ligne(s) rejetee(s)"
+msgstr "ligne(s) rejetée(s)"
+
+#: openexemple/scr/import.php:327
+msgid ""
+"Cliquer ici pour telecharger votre fichier CSV contenant uniquement les "
+"lignes rejetees"
+msgstr ""
+"Cliquer ici pour télécharger votre fichier CSV contenant uniquement les "
+"lignes rejetées"
+
+#: openexemple/scr/import.php:327
+msgid "Fichier rejet"
+msgstr "Fichier rejet"
+
+#: openexemple/scr/import.php:346
+msgid "Fichier"
+msgstr "Fichier"
+
+#: openexemple/scr/import.php:356
+msgid "Separateur"
+msgstr "Séparateur"
+
+#: openexemple/scr/import.php:360
+msgid "(point-virgule)"
+msgstr "(point-virgule)"
+
+#: openexemple/scr/import.php:360
+msgid "(virgule)"
+msgstr "(virgule)"
+
+#: openexemple/scr/import.php:374
+msgid "Importer le fichier dans la table :"
+msgstr "Importer le fichier dans la table :"
+
+#: openexemple/scr/tab_sig.php:396
+msgid "imprimer"
+msgstr "imprimer"
+
+#: openexemple/scr/gensousetat.php:13
+msgid "om_sous_etat"
+msgstr "Sous-état"
+
+#: openexemple/scr/gensousetat.php:19
+msgid ""
+"cet assistant vous permet de creer des sous etats directement a partir de "
+"vos tables "
+msgstr ""
+"cet assistant vous permet de créer des sous-états directement à partir de "
+"vos tables "
+
+#: openexemple/scr/gensousetat.php:110
+msgid "choisir la cle de selection"
+msgstr "choisir la clé de sélection"
+
+#: openexemple/scr/gensousetat.php:213
+msgid "liste"
+msgstr "liste"
+
+#: openexemple/scr/login.php:10 openexemple/scr/logout.php:10
+msgid "Veuillez vous connecter"
+msgstr "veuillez vous connecter"
+
+#: openexemple/scr/requeteur.php:91 openexemple/scr/requeteur.php:93
+#: openexemple/scr/requeteur.php:95
+msgid "Export de : "
+msgstr "Export de : "
+
+#: openexemple/scr/requeteur.php:131
+msgid "Executer la requete sur :"
+msgstr "Exécuter la requête sur :"
+
+#: openexemple/scr/requeteur.php:271 openexemple/scr/requeteur.php:304
+msgid "aucun"
+msgstr "aucun"
+
+#: openexemple/scr/requeteur.php:310
+msgid ""
+"Le fichier a ete exporte, vous pouvez l'ouvrir immediatement en cliquant "
+"sur : "
+msgstr ""
+"Le fichier a été exporté, vous pouvez l'ouvrir immédiatement en cliquant "
+"sur : "
+
+#: openexemple/scr/requeteur.php:312
+msgid "Telecharger le fichier"
+msgstr "Télécharger le fichier"
+
+#: openexemple/scr/gensup.php:15
+msgid "suppression"
+msgstr "suppression"
+
+#: openexemple/scr/gensup.php:190
+msgid "supprimer les fichiers de la table"
+msgstr "supprimer les fichiers de la table"
+
+#: openexemple/scr/genetat.php:19
+msgid ""
+"cet assistant vous permet de creer des etats directement a partir de vos "
+"tables "
+msgstr ""
+"cet assistant vous permet de créer des états directement à partir de vos "
+"tables "
+
+#: openexemple/spg/combo.php:116 openexemple/spg/adresse_postale.php:78
+msgid "Votre saisie ne donne aucune correspondance"
+msgstr "Votre saisie ne donne aucune correspondance"
+
+#: openexemple/spg/combo.php:178
+#: openexemple/spg/adresse_postale_mapquest.php:69
+#: openexemple/spg/adresse_postale.php:98
+msgid ""
+"Selectionner dans la liste ci-dessous la correspondance avec votre recherche"
+msgstr ""
+"Sélectionner dans la liste ci-dessous la correspondance avec votre recherche"
+
+#: openexemple/spg/combo.php:180
+#: openexemple/spg/adresse_postale_mapquest.php:71
+#: openexemple/spg/adresse_postale.php:100
+msgid "Puis valider votre choix en cliquant sur le bouton : \"Valider\"."
+msgstr "Puis valider votre choix en cliquant sur le bouton : \"Valider\"."
+
+#: openexemple/spg/combo.php:255 openexemple/spg/adresse_postale.php:162
+msgid "Vous devez saisir une valeur d'au moins"
+msgstr "Vous devez saisir une valeur d'au moins"
+
+#: openexemple/spg/combo.php:257 openexemple/spg/adresse_postale.php:164
+msgid "caracteres dans le champ"
+msgstr "caractères dans le champ"
+
+#: openexemple/spg/adresse_postale_mapquest.php:47
+msgid "aucune correspondance"
+msgstr "Aucune correspondance"
+
+#: openexemple/spg/adresse_postale_mapquest.php:51
+msgid "resultat"
+msgstr "résultat"
+
+#: openexemple/spg/voir.php:54
+msgid "Les parametres transmis ne sont pas corrects."
+msgstr "Les paramètres transmis ne sont pas corrects."
+
+#: openexemple/spg/voir.php:104 openexemple/spg/file.php:66
+msgid "Objet inexistant."
+msgstr "Objet inexistant."
+
+#: openexemple/spg/direct_link.php:76
+msgid "L'element n'est pas accessible."
+msgstr "L'élément n'est pas accessible."
+
+#: openexemple/spg/adresse_postale.php:144
+msgid "mapquest"
+msgstr "mapquest"
+
+#: openexemple/spg/adresse_postale.php:144
+msgid "Mapquest"
+msgstr "Mapquest"
+
+#: openexemple/spg/adresse_postale.php:150
+msgid "google"
+msgstr "google"
+
+#: openexemple/spg/adresse_postale.php:150
+msgid "Google"
+msgstr "Google"
+
+#: openexemple/spg/adresse_postale.php:156
+msgid "Bing"
+msgstr "Bing"
+
+#: openexemple/spg/widgetctl.php:81
+msgid "Acceder au lien"
+msgstr "Accéder au lien"
+
+#: openexemple/spg/widgetctl.php:198
+msgid ""
+"Selectionner le widget a inserer puis cliquer sur le bouton 'Valider' pour "
+"valider votre selection."
+msgstr ""
+"Sélectionner le widget à insérer puis cliquer sur le bouton 'Valider' pour "
+"valider votre sélection."
+
+#: openexemple/spg/widgetctl.php:231
+msgid "Ajouter un nouveau widget"
+msgstr "Ajouter un nouveau widget"
+
+#: openexemple/spg/upload.php:49
+msgid "Upload"
+msgstr "Envoyer"
+
+#: openexemple/spg/upload.php:52
+msgid ""
+"Cliquer sur 'Parcourir' pour selectionner le fichier a telecharger depuis "
+"votre poste de travail puis cliquer sur le bouton 'Envoyer' pour valider "
+"votre telechargement."
+msgstr ""
+"Cliquer sur 'Parcourir' pour sélectionner le fichier a télécharger depuis "
+"votre poste de travail puis cliquer sur le bouton 'Envoyer' pour valider "
+"votre téléchargement."
+
+#: openexemple/spg/upload.php:77
+msgid "Vous devez selectionner un fichier."
+msgstr "Vous devez sélectionner un fichier."
+
+#: openexemple/spg/upload.php:143
+msgid "contient trop de caracteres."
+msgstr "contient trop de caractères."
+
+#: openexemple/spg/upload.php:143
+msgid "Autorise(s) : 50 caractere(s)."
+msgstr "Autorisé(s) : 50 caractère(s)."
+
+#: openexemple/spg/upload.php:203
+msgid "Envoyer"
+msgstr "Envoyer"
+
+#: openexemple/spg/genaff.php:24
+msgid "Code viewer"
+msgstr "Visualiseur de code"
+
+#: openexemple/spg/genaff.php:174
+msgid ": le fichier n'existe pas."
+msgstr ": le fichier n'existe pas."
+
+#: openexemple/spg/genaff.php:177
+msgid "l'acces a ce fichier n'est pas autorise."
+msgstr "l'accès à ce fichier n'est pas autorisé."
+
+#: openexemple/sql/pgsql/om_utilisateur.reqmo.inc.php:4
+#: openexemple/sql/pgsql/om_utilisateur.reqmo.inc.php:5
+msgid "public.om_utilisateur"
+msgstr "Utilisateurs"
+
+#: openexemple/sql/pgsql/om_collectivite.reqmo.inc.php:4
+#: openexemple/sql/pgsql/om_collectivite.reqmo.inc.php:5
+msgid "public.om_collectivite"
+msgstr "Collectivités"
+
+#: openexemple/sql/pgsql/om_parametre_om_collectivite.reqmo.inc.php:4
+#: openexemple/sql/pgsql/om_parametre_om_collectivite.reqmo.inc.php:5
+#: openexemple/sql/pgsql/om_parametre.reqmo.inc.php:4
+#: openexemple/sql/pgsql/om_parametre.reqmo.inc.php:5
+msgid "reqmo-libelle-om_parametre"
+msgstr "Paramètres"
+
+#: openexemple/sql/pgsql/om_parametre_om_collectivite.reqmo.inc.php:6
+msgid "om_parametre_om_collectivite"
+msgstr "Paramètres d'une collectivité"
+
+#: openexemple/sql/pgsql/om_profil.reqmo.inc.php:4
+#: openexemple/sql/pgsql/om_profil.reqmo.inc.php:5
+msgid "public.om_profil"
+msgstr "Profils"
+
+#: openexemple/sql/pgsql/om_droit.reqmo.inc.php:4
+#: openexemple/sql/pgsql/om_droit.reqmo.inc.php:5
+msgid "public.om_droit"
+msgstr "Droits"
+
+#: openexemple/gen/obj/om_sig_wms.class.php:203
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:30
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:49
+msgid "chemin"
+msgstr "chemin"
+
+#: openexemple/gen/obj/om_sig_wms.class.php:204
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:31
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:50
+msgid "couches"
+msgstr "couches"
+
+#: openexemple/gen/obj/om_sig_wms.class.php:205
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:32
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:51
+msgid "cache_type"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_wms.class.php:206
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:33
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:52
+msgid "cache_gfi_chemin"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_wms.class.php:207
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:34
+#: openexemple/gen/sql/pgsql/om_sig_wms.inc.php:53
+msgid "cache_gfi_couches"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_map_wms.class.php:279
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.form.inc.php:7
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:8
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:29
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:52
+msgid "om_sig_map_wms"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_map_wms.class.php:282
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:32
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:55
+msgid "ol_map"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_map_wms.class.php:284
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:34
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:57
+msgid "visibility"
+msgstr "visibility"
+
+#: openexemple/gen/obj/om_sig_map_wms.class.php:293
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:41
+#: openexemple/gen/sql/pgsql/om_sig_map_wms.inc.php:64
+msgid "baselayer"
+msgstr ""
+
+#: openexemple/gen/obj/om_widget.class.php:119
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:31
+msgid "lien"
+msgstr "lien"
+
+#: openexemple/gen/obj/om_widget.class.php:121
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:27
+#: openexemple/gen/sql/pgsql/om_widget.inc.php:38
+msgid "type"
+msgstr "type"
+
+#: openexemple/gen/obj/om_profil.class.php:105
+#: openexemple/gen/sql/pgsql/om_profil.inc.php:27
+#: openexemple/gen/sql/pgsql/om_profil.inc.php:36
+msgid "hierarchie"
+msgstr "hiérarchie"
+
+#: openexemple/gen/obj/om_etat.class.php:385
+#: openexemple/gen/obj/om_lettretype.class.php:391
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:34
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:67
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:34
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:67
+msgid "format"
+msgstr "format"
+
+#: openexemple/gen/obj/om_etat.class.php:386
+#: openexemple/gen/obj/om_lettretype.class.php:392
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:35
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:68
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:35
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:68
+msgid "logo"
+msgstr "logo"
+
+#: openexemple/gen/obj/om_etat.class.php:387
+#: openexemple/gen/obj/om_lettretype.class.php:393
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:36
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:69
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:36
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:69
+msgid "logoleft"
+msgstr "gauche"
+
+#: openexemple/gen/obj/om_etat.class.php:388
+#: openexemple/gen/obj/om_lettretype.class.php:394
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:37
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:70
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:37
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:70
+msgid "logotop"
+msgstr "haut"
+
+#: openexemple/gen/obj/om_etat.class.php:389
+#: openexemple/gen/obj/om_lettretype.class.php:395
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:58
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:58
+msgid "titre_om_htmletat"
+msgstr ""
+
+#: openexemple/gen/obj/om_etat.class.php:390
+#: openexemple/gen/obj/om_lettretype.class.php:396
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:38
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:71
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:38
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:71
+msgid "titreleft"
+msgstr "gauche"
+
+#: openexemple/gen/obj/om_etat.class.php:391
+#: openexemple/gen/obj/om_lettretype.class.php:397
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:39
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:72
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:39
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:72
+msgid "titretop"
+msgstr "haut"
+
+#: openexemple/gen/obj/om_etat.class.php:392
+#: openexemple/gen/obj/om_lettretype.class.php:398
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:40
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:73
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:40
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:73
+msgid "titrelargeur"
+msgstr "largeur"
+
+#: openexemple/gen/obj/om_etat.class.php:393
+#: openexemple/gen/obj/om_lettretype.class.php:399
+#: openexemple/gen/obj/om_sousetat.class.php:680
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:41
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:74
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:41
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:74
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:31
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:100
+msgid "titrehauteur"
+msgstr "hauteur"
+
+#: openexemple/gen/obj/om_etat.class.php:394
+#: openexemple/gen/obj/om_lettretype.class.php:400
+#: openexemple/gen/obj/om_sousetat.class.php:684
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:42
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:75
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:42
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:75
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:35
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:104
+msgid "titrebordure"
+msgstr "bordure"
+
+#: openexemple/gen/obj/om_etat.class.php:397
+#: openexemple/gen/obj/om_lettretype.class.php:407
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:44
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:77
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:48
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:81
+msgid "se_font"
+msgstr ""
+
+#: openexemple/gen/obj/om_etat.class.php:398
+#: openexemple/gen/obj/om_lettretype.class.php:408
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:45
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:78
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:49
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:82
+msgid "se_couleurtexte"
+msgstr ""
+
+#: openexemple/gen/obj/om_etat.class.php:399
+#: openexemple/gen/obj/om_lettretype.class.php:403
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:46
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:79
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:44
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:77
+msgid "margeleft"
+msgstr ""
+
+#: openexemple/gen/obj/om_etat.class.php:400
+#: openexemple/gen/obj/om_lettretype.class.php:404
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:47
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:80
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:45
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:78
+msgid "margetop"
+msgstr ""
+
+#: openexemple/gen/obj/om_etat.class.php:401
+#: openexemple/gen/obj/om_lettretype.class.php:405
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:48
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:81
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:46
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:79
+msgid "margeright"
+msgstr ""
+
+#: openexemple/gen/obj/om_etat.class.php:402
+#: openexemple/gen/obj/om_lettretype.class.php:406
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:49
+#: openexemple/gen/sql/pgsql/om_etat.inc.php:82
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:47
+#: openexemple/gen/sql/pgsql/om_lettretype.inc.php:80
+msgid "margebottom"
+msgstr ""
+
+#: openexemple/gen/obj/om_requete.class.php:125
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:26
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:38
+msgid "code"
+msgstr "code"
+
+#: openexemple/gen/obj/om_requete.class.php:128
+#: openexemple/gen/sql/pgsql/om_requete.inc.php:32
+msgid "requete"
+msgstr "requête"
+
+#: openexemple/gen/obj/om_utilisateur.class.php:207
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:31
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:49
+msgid "email"
+msgstr "email"
+
+#: openexemple/gen/obj/om_utilisateur.class.php:208
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:32
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:50
+msgid "login"
+msgstr "login"
+
+#: openexemple/gen/obj/om_utilisateur.class.php:209
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:41
+msgid "pwd"
+msgstr "mot de passe"
+
+#: openexemple/gen/obj/om_utilisateur.class.php:211
+#: openexemple/gen/sql/pgsql/om_utilisateur.inc.php:43
+msgid "om_type"
+msgstr "Type"
+
+#: openexemple/gen/obj/om_sig_map.class.php:296
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:35
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:64
+msgid "layer_info"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_map.class.php:304
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:41
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:70
+msgid "retour"
+msgstr "Retour"
+
+#: openexemple/gen/obj/om_sig_map.class.php:305
+#: openexemple/gen/obj/om_sig_map_comp.class.php:190
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:33
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:48
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:42
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:71
+msgid "type_geometrie"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_map.class.php:306
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:43
+#: openexemple/gen/sql/pgsql/om_sig_map.inc.php:72
+msgid "lib_geometrie"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_map_comp.class.php:189
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:32
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:47
+msgid "comp_maj"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_map_comp.class.php:191
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:34
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:49
+msgid "comp_table_update"
+msgstr ""
+
+#: openexemple/gen/obj/om_sig_map_comp.class.php:192
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:35
+#: openexemple/gen/sql/pgsql/om_sig_map_comp.inc.php:50
+msgid "comp_champ"
+msgstr ""
+
+#: openexemple/gen/obj/om_dashboard.class.php:155
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:31
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:42
+msgid "bloc"
+msgstr "bloc"
+
+#: openexemple/gen/obj/om_dashboard.class.php:156
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:32
+#: openexemple/gen/sql/pgsql/om_dashboard.inc.php:43
+msgid "position"
+msgstr "position"
+
+#: openexemple/gen/obj/om_sousetat.class.php:681
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:32
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:101
+msgid "titrefont"
+msgstr "police"
+
+#: openexemple/gen/obj/om_sousetat.class.php:682
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:33
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:102
+msgid "titreattribut"
+msgstr "attribut"
+
+#: openexemple/gen/obj/om_sousetat.class.php:683
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:34
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:103
+msgid "titretaille"
+msgstr "taille"
+
+#: openexemple/gen/obj/om_sousetat.class.php:685
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:36
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:105
+msgid "titrealign"
+msgstr "alignement"
+
+#: openexemple/gen/obj/om_sousetat.class.php:686
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:37
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:106
+msgid "titrefond"
+msgstr "fond"
+
+#: openexemple/gen/obj/om_sousetat.class.php:687
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:38
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:107
+msgid "titrefondcouleur"
+msgstr "couleur de fond"
+
+#: openexemple/gen/obj/om_sousetat.class.php:688
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:39
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:108
+msgid "titretextecouleur"
+msgstr "couleur du texte"
+
+#: openexemple/gen/obj/om_sousetat.class.php:689
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:40
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:109
+msgid "intervalle_debut"
+msgstr "Début d'intervalle"
+
+#: openexemple/gen/obj/om_sousetat.class.php:690
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:41
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:110
+msgid "intervalle_fin"
+msgstr "Fin d'intervalle"
+
+#: openexemple/gen/obj/om_sousetat.class.php:691
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:42
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:111
+msgid "entete_flag"
+msgstr "entête active"
+
+#: openexemple/gen/obj/om_sousetat.class.php:692
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:43
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:112
+msgid "entete_fond"
+msgstr "fond"
+
+#: openexemple/gen/obj/om_sousetat.class.php:693
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:44
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:113
+msgid "entete_orientation"
+msgstr "orientation"
+
+#: openexemple/gen/obj/om_sousetat.class.php:694
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:45
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:114
+msgid "entete_hauteur"
+msgstr "hauteur"
+
+#: openexemple/gen/obj/om_sousetat.class.php:695
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:46
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:115
+msgid "entetecolone_bordure"
+msgstr "bordure"
+
+#: openexemple/gen/obj/om_sousetat.class.php:696
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:47
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:116
+msgid "entetecolone_align"
+msgstr "alignement"
+
+#: openexemple/gen/obj/om_sousetat.class.php:697
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:48
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:117
+msgid "entete_fondcouleur"
+msgstr "couleur de fond"
+
+#: openexemple/gen/obj/om_sousetat.class.php:698
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:49
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:118
+msgid "entete_textecouleur"
+msgstr "couleur du texte"
+
+#: openexemple/gen/obj/om_sousetat.class.php:699
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:50
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:119
+msgid "tableau_largeur"
+msgstr "largeur"
+
+#: openexemple/gen/obj/om_sousetat.class.php:700
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:51
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:120
+msgid "tableau_bordure"
+msgstr "bordure"
+
+#: openexemple/gen/obj/om_sousetat.class.php:701
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:52
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:121
+msgid "tableau_fontaille"
+msgstr "taille de police"
+
+#: openexemple/gen/obj/om_sousetat.class.php:702
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:53
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:122
+msgid "bordure_couleur"
+msgstr "Couleur de bordure"
+
+#: openexemple/gen/obj/om_sousetat.class.php:703
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:54
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:123
+msgid "se_fond1"
+msgstr "fond 1"
+
+#: openexemple/gen/obj/om_sousetat.class.php:704
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:55
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:124
+msgid "se_fond2"
+msgstr "Fond 2"
+
+#: openexemple/gen/obj/om_sousetat.class.php:705
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:56
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:125
+msgid "cellule_fond"
+msgstr "Fond de cellule"
+
+#: openexemple/gen/obj/om_sousetat.class.php:706
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:57
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:126
+msgid "cellule_hauteur"
+msgstr "Hauteur de cellule"
+
+#: openexemple/gen/obj/om_sousetat.class.php:707
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:58
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:127
+msgid "cellule_largeur"
+msgstr "Largeur de cellule"
+
+#: openexemple/gen/obj/om_sousetat.class.php:708
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:59
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:128
+msgid "cellule_bordure_un"
+msgstr "Cellule bordure un"
+
+#: openexemple/gen/obj/om_sousetat.class.php:709
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:60
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:129
+msgid "cellule_bordure"
+msgstr "Bordure de cellule"
+
+#: openexemple/gen/obj/om_sousetat.class.php:710
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:61
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:130
+msgid "cellule_align"
+msgstr "alignement"
+
+#: openexemple/gen/obj/om_sousetat.class.php:711
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:62
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:131
+msgid "cellule_fond_total"
+msgstr "fond du total"
+
+#: openexemple/gen/obj/om_sousetat.class.php:712
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:63
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:132
+msgid "cellule_fontaille_total"
+msgstr "taille de police du total"
+
+#: openexemple/gen/obj/om_sousetat.class.php:713
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:64
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:133
+msgid "cellule_hauteur_total"
+msgstr "hauteur du total"
+
+#: openexemple/gen/obj/om_sousetat.class.php:714
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:65
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:134
+msgid "cellule_fondcouleur_total"
+msgstr "couleur de fond du total"
+
+#: openexemple/gen/obj/om_sousetat.class.php:715
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:66
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:135
+msgid "cellule_bordure_total"
+msgstr "bordure du total"
+
+#: openexemple/gen/obj/om_sousetat.class.php:716
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:67
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:136
+msgid "cellule_align_total"
+msgstr "alignement du total"
+
+#: openexemple/gen/obj/om_sousetat.class.php:717
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:68
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:137
+msgid "cellule_fond_moyenne"
+msgstr "fond de la moyenne"
+
+#: openexemple/gen/obj/om_sousetat.class.php:718
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:69
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:138
+msgid "cellule_fontaille_moyenne"
+msgstr "taille de police de la moyenne"
+
+#: openexemple/gen/obj/om_sousetat.class.php:719
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:70
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:139
+msgid "cellule_hauteur_moyenne"
+msgstr "hauteur de la moyenne"
+
+#: openexemple/gen/obj/om_sousetat.class.php:720
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:71
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:140
+msgid "cellule_fondcouleur_moyenne"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:721
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:72
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:141
+msgid "cellule_bordure_moyenne"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:722
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:73
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:142
+msgid "cellule_align_moyenne"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:723
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:74
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:143
+msgid "cellule_fond_nbr"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:724
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:75
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:144
+msgid "cellule_fontaille_nbr"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:725
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:76
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:145
+msgid "cellule_hauteur_nbr"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:726
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:77
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:146
+msgid "cellule_fondcouleur_nbr"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:727
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:78
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:147
+msgid "cellule_bordure_nbr"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:728
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:79
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:148
+msgid "cellule_align_nbr"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:729
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:80
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:149
+msgid "cellule_numerique"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:730
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:81
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:150
+msgid "cellule_total"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:731
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:82
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:151
+msgid "cellule_moyenne"
+msgstr ""
+
+#: openexemple/gen/obj/om_sousetat.class.php:732
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:83
+#: openexemple/gen/sql/pgsql/om_sousetat.inc.php:152
+msgid "cellule_compteur"
+msgstr ""
+
+#~ msgid "Absence du parametrage specifique"
+#~ msgstr "Absence du paramétrage spécifique"
+
+#~ msgid "Generation non souhaitee"
+#~ msgstr "Génération non souhaitée"
+
+#~ msgid "Erreur de droits d'ecriture"
+#~ msgstr "Erreur de droits d'écriture"
+
+#~ msgid "Administration"
+#~ msgstr "Administration"
+
+#~ msgid ""
+#~ "Le generateur openMairie permet de construire une application sur la base "
+#~ "de l'anayse des informations du SGBD. Cet ecran vous presente une liste "
+#~ "des tables presentes dans votre base de donnees pour l'utilisation du "
+#~ "generateur et une serie d'assistants vous permettant des operations de "
+#~ "migration et de creation d'etats."
+#~ msgstr ""
+#~ "Le générateur openMairie permet de construire une application sur la base "
+#~ "de l'anayse des informations du SGBD. Cet écran vous presente une liste "
+#~ "des tables présentes dans votre base de données pour l'utilisation du "
+#~ "générateur et une serie d'assistants vous permettant des opérations de "
+#~ "migration et de création d'états."
+
+#~ msgid "vues"
+#~ msgstr "vues"
+
+#~ msgid "*.form et *.class deconseilles"
+#~ msgstr "*.form et *.class deconseillés"
+
+#~ msgid "analyse"
+#~ msgstr "analyse"
+
+#~ msgid "Choix des fichiers a generer"
+#~ msgstr "Choix des fichiers à générer"
+
+#~ msgid "Generation des fichiers standards de la table"
+#~ msgstr "Génération des fichiers standards de la table"
+
+#~ msgid "Le fichier n'est pas correct."
+#~ msgstr "Le fichier n'est pas correct."
+
+#~ msgid "Suppression non souhaitee"
+#~ msgstr "Suppression non souhaitée"
+
+#~ msgid "Choix des fichiers a supprimer"
+#~ msgstr "Choix des fichiers à supprimer"
+
+#~ msgid "chemin (url) : "
+#~ msgstr "chemin (url) : "
+
+#, fuzzy
+#~ msgid "TileCache : "
+#~ msgstr "Titre : "
+
+#~ msgid "couche :"
+#~ msgstr "couche :"
+
+#~ msgid "attribut :"
+#~ msgstr "attribut :"
+
+#~ msgid "champ encapsulation :"
+#~ msgstr "champ encapsulation :"
+
+#, fuzzy
+#~ msgid "requete (&lst) :"
+#~ msgstr "requête sql"
+
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgid "Parametres du corps de l'edition"
+#~ msgstr "Paramètres du corps de l'édition"
+
+#~ msgid "Titre : "
+#~ msgstr "Titre : "
+
+#~ msgid "corps"
+#~ msgstr "corps"
+
+#~ msgid "corpsleft"
+#~ msgstr "gauche"
+
+#~ msgid "corpstop"
+#~ msgstr "huat"
+
+#~ msgid "corpslargeur"
+#~ msgstr "largeur"
+
+#~ msgid "corpshauteur"
+#~ msgstr "hauteur"
+
+#~ msgid "corpsfont"
+#~ msgstr "police"
+
+#~ msgid "corpsattribut"
+#~ msgstr "attribut"
+
+#~ msgid "corpstaille"
+#~ msgstr "taille"
+
+#~ msgid "corpsbordure"
+#~ msgstr "bordure"
+
+#~ msgid "corpsalign"
+#~ msgstr "alignement"
+
+#~ msgid "sousetat"
+#~ msgstr "sous-état"
+
+#~ msgid "options"
+#~ msgstr "options"
+
+#~ msgid "widget"
+#~ msgstr "widget"
+
+#~ msgid "Bienvenue "
+#~ msgstr "Bienvenue "
+
+#~ msgid "dans votre tableau de bord "
+#~ msgstr "dans votre tableau de bord "
+
+#~ msgid "parametrable en cliquant ici"
+#~ msgstr "paramétrable en cliquant ici"
+
+#~ msgid "om_tdb"
+#~ msgstr "Tableau de bord"
+
+#~ msgid ""
+#~ "Il existe deja un enregistrement avec cet identifiant, vous devez en "
+#~ "choisir un autre"
+#~ msgstr ""
+#~ "Il existe déjà un enregistrement avec cet identifiant, vous devez en "
+#~ "choisir un autre"
+
+#~ msgid "vous ne pouvez avoir qu un sousetat"
+#~ msgstr "vous ne pouvez avoir qu'un sous-état"
+
+#~ msgid "Sous etat(s) : selection"
+#~ msgstr "Sous-état(s) : sélection"
+
+#~ msgid "Sous etat(s) : police / marges / couleur"
+#~ msgstr "Sous-état(s) : police / marges / couleur"
+
+#~ msgid "mise_en_forme"
+#~ msgstr "mise-en-forme"
+
+#~ msgid "left"
+#~ msgstr "gauche"
+
+#~ msgid "top"
+#~ msgstr "haut"
+
+#~ msgid "sous_etat"
+#~ msgstr "sous-état"
+
+#~ msgid "haute"
+#~ msgstr "haute"
+
+#~ msgid "etat"
+#~ msgstr "état"
+
+#~ msgid "vous ne pouvez avoir qu un etat"
+#~ msgstr "Vous ne pouvez avoir qu'un état"
+
+#~ msgid "Hauteur"
+#~ msgstr "Hauteur"
+
+#~ msgid "Mise en forme du texte"
+#~ msgstr "Mise en forme du texte"
+
+#~ msgid "Taille"
+#~ msgstr "Taille"
+
+#~ msgid "sql"
+#~ msgstr "sql"
+
+#~ msgid "lettretype"
+#~ msgstr "Lettre type"
+
+#~ msgid "vous ne pouvez avoir qu une lettretype"
+#~ msgstr "Vous ne pouvez avoir qu'une lettre type"
+
+#~ msgid "id_collectivite"
+#~ msgstr "Id"
+
+#~ msgid "Extension(s) autorisee(s) :"
+#~ msgstr "Extension(s) autorisée(s) :"
+
+#~ msgid "Cliquer ici pour selectionner une couleur"
+#~ msgstr "Cliquer ici pour sélectionner une couleur"
+
+#~ msgid "Le fichier est enregistre."
+#~ msgstr "Le fichier est enregistré."
+
+#~ msgid "ecriture"
+#~ msgstr "écriture"
+
+#~ msgid "numero"
+#~ msgstr "numéro"
+
+#~ msgid "premiere"
+#~ msgstr "première"
+
+#~ msgid "Ce fichier javascript n'existe pas sur le serveur"
+#~ msgstr "Ce fichier javascript n'existe pas sur le serveur"
+
+#~ msgid "Choisir un sous etat"
+#~ msgstr "Choisir un sous-état"
+
+#~ msgid "Les utilisateurs sont deja synchronises."
+#~ msgstr "Les utilisateurs sont déjà synchronisés."
+
+#~ msgid "Parametrage utilise :"
+#~ msgstr "Paramétrage utilisé :"
+
+#~ msgid "Parametrage"
+#~ msgstr "Paramétrage"
+
+#~ msgid "om SIG"
+#~ msgstr "SIG"
+
+#~ msgid "public.om_parametre"
+#~ msgstr "Paramètres"

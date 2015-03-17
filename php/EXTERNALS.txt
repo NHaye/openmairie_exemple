@@ -1,0 +1,10 @@
+#
+# created by: svn propset svn:externals -F ./EXTERNALS.txt .
+#
+
+fpdf https://scm.adullact.net/anonscm/svn/openmairie/externals/fpdf/tags/1.6-min/
+tcpdf https://scm.adullact.net/anonscm/svn/openmairie/externals/tcpdf/tags/6.0.063/
+pear https://scm.adullact.net/anonscm/svn/openmairie/externals/pear/pear-core/tags/PEAR-1.9.5/
+db https://scm.adullact.net/anonscm/svn/openmairie/externals/pear/DB/tags/RELEASE_1_7_14/
+phpmailer https://scm.adullact.net/anonscm/svn/openmairie/externals/phpmailer/tags/5.1-min/
+

@@ -1,0 +1,36 @@
+#! /bin/bash
+##
+# Ce script permet d'effectuer les initialisations nécessaires au bon
+# déroulement de ces tests
+#
+# @package openmairie_exemple
+# @version SVN : $Id$
+##
+
+#
+cd ..
+
+#
+database_default="openexemple"
+
+# On récupère un éventuel paramètre - si ce paramètre est renseigné alors on
+# l'utilisera tel quel comme nom de la base de données - si ce n'est pas le cas
+# alors le nom de la base de données sera openads
+database=$1
+if [ "$database" = "" ] ;
+then
+    database=$database_default
+fi
+
+# On réinitialise la base de données pour avoir les données nécessaires aux
+# tests
+cd data/pgsql/
+echo "  Suppression de la base $database ..."
+sudo su postgres -c "dropdb $database"
+echo "  Création et initialisation de la base $database ..."
+sudo su postgres -c "createdb $database && psql $database -q -f install.sql > /dev/null"
+cd ../..
+
+#
+cd tests/
+
