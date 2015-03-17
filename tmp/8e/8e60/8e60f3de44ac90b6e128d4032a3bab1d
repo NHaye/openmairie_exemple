@@ -1,0 +1,15 @@
+colord:x:102:105:colord colour management daemon,,,:/var/lib/colord:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+avahi-autoipd:x:105:112:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+avahi:x:106:113:Avahi mDNS daemon,,,:/var/run/avahi-daemon:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+usbmux:x:107:46:usbmux daemon,,,:/home/usbmux:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+kernoops:x:108:65534:Kernel Oops Tracking Daemon,,,:/:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+rtkit:x:110:122:RealtimeKit,,,:/proc:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+speech-dispatcher:x:111:29:Speech Dispatcher,,,:/var/run/speech-dispatcher:/bin/sh,Clé secondaire inexistante : om_profil = -1 / 
+hplip:x:112:7:HPLIP system user,,,:/var/run/hplip:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+postgres:x:114:125:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/bash,Clé secondaire inexistante : om_profil = -1 / 
+mysql:x:115:126:MySQL Server,,,:/nonexistent:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+rabbitmq:x:118:129:RabbitMQ messaging server,,,:/var/lib/rabbitmq:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+dnsmasq:x:120:65534:dnsmasq,,,:/var/lib/misc:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+pulse:x:109:119:PulseAudio daemon,,,:/var/run/pulse:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+libvirt-qemu:x:129:140:Libvirt Qemu,,,:/var/lib/libvirt:/bin/false,Clé secondaire inexistante : om_profil = -1 / 
+libvirt-dnsmasq:x:130:141:Libvirt Dnsmasq,,,:/var/lib/libvirt/dnsmasq:/bin/false,Clé secondaire inexistante : om_profil = -1 / 

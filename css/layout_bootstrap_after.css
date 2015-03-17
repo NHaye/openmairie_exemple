@@ -1,0 +1,86 @@
+/**
+ * Cette feuille de style contient le style principal.
+ * 
+ * @package openmairie_exemple
+ * @version SVN : $Id: layout_bootstrap_after.css 2204 2013-03-28 18:07:52Z fmichon $
+ */
+ 
+body { background-color:#f3f3f3; }
+#content { padding:10px; background-color: #fff; border: 1px solid #E5E5E5; border-radius: 5px 5px 5px 5px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05); }
+.visualClear { clear: both; }
+.hiddenStructure { background: none repeat scroll 0 0 transparent; border: medium none; display: block; height: 1px; margin: -1px 0 0 -1px; overflow: hidden; padding: 0; width: 1px; }
+.both { clear:both; }
+
+/**/
+/*.om-prev-icon { background-position:left center; background-repeat: no-repeat; padding:1px 0 1px 19px; background-image: url("img/om-prev-icon-16x16.png"); }
+.om-icon { float:left; text-indent:-99999px; background-repeat: no-repeat; display:block; }
+.om-icon-25 { width:25px; height:25px; margin:1px; background-image: url("../img/om-icon-25x25.png"); }
+.om-icon-16 { width:16px; height:16px; margin:1px; background-image: url("../img/om-icon-16x16.png"); }
+.om-icon-16.om-icon-fix { display: inline-block; float: none;}*/
+
+
+/* DASHBOARD */
+#dashboard { }
+#dashboard .column { min-height:150px; }
+#dashboard .col1 .column { float:left; width:100%; }
+#dashboard .col2 .column { float:left; width:50%; }
+#dashboard .col3 .column { float:left; width:33%; }
+#dashboard .col4 .column { float:left; width:25%; }
+#dashboard .col5 .column { float:left; width:20%; }
+* html #dashboard .column { position:relative; }
+#dashboard .widget-add-action { clear: both; }
+#dashboard .widget { margin: 0 1em 1em 0; }
+#dashboard .widget-header { margin: 0.3em; padding-bottom: 4px; padding-left: 0.2em; }
+#dashboard .widget-header-move { cursor: move; }
+#dashboard .widget-header .ui-icon { float: right; cursor: pointer; }
+#dashboard .widget-content-wrapper { padding: 0.4em; }
+#dashboard .ui-sortable-placeholder { border: 1px dotted black; visibility: visible !important; height: 50px !important; }
+#dashboard .ui-sortable-placeholder * { visibility: hidden; }
+#dashboard .widget-content { overflow: auto; }
+
+
+
+/* FORM */
+.formEntete img { vertical-align:middle; }
+.formEntete { margin:0; width:auto; overflow: auto; }
+.field { width:100%; vertical-align: middle; display: table-row;}
+.field-type-hidden { display:none; }
+.form-libelle { display:table-cell; padding: 2px 5px; vertical-align: middle; }
+.form-content {display: table-cell;line-height: 20px;vertical-align: middle;width: auto;}
+.group .field{width: auto;margin-left:0px;margin-right: 10px;display: table-cell;}
+.bloc.group{display:table-row;}
+.fieldsetContent{
+    display:table;
+}
+.pre {white-space:pre;}
+.bold {font-weight: bold;}
+/* les champs de gauche du tableau doivent être contenu dans un bloc de classe comboG
+ * et les champs de droite dans un bloc comboD
+ */
+.comboG, .comboD{float:left;}
+
+div.formControls { padding:5px 0; }
+#formulaire form a:focus { outline: 1px dotted; }
+input.upload, input.voir, input.localisation, input.rvb, input.mail, input.combog, input.combod, input.comboc { float:left; }
+a.upload, a.voir, a.localisation, a.rvb, a.mail, a.combog, a.combod, a.comboc { float: left; }
+.collapicon_plus {background-image: url("../img/legend-collapsed-20x16.png") !important; cursor: pointer;}
+.collapicon_less {background-image: url("../img/legend-collapsible-20x16.png") !important; cursor: pointer;}
+
+
+/* POSITIONNEMENT EN GRILLE */
+.col_1, .col_2, .col_3, .col_4, .col_5, .col_6,
+.col_7, .col_8, .col_9, .col_10, .col_11, .col_12
+{display: block; float: left; margin: 8px 0.833333%;}
+
+.col_1 {width: 6.66667%;}
+.col_2 {width: 15%;}
+.col_3 {width: 23.3333%;}
+.col_4 {width: 31.6667%;}
+.col_5 {width: 40%;}
+.col_6 {width: 48.3333%;}
+.col_7 {width: 56.6667%;}
+.col_8 {width: 65%;}
+.col_9 {width: 73.3333%;}
+.col_10 {width: 81.6667%;}
+.col_11 {width: 90%;}
+.col_12 {width: 98.3333%;}

@@ -1,0 +1,51 @@
+#! /bin/bash
+##
+# Ce script permet d'effectuer les initialisations nécessaires au bon
+# déroulement de ces tests
+#
+# @package openmairie_exemple
+# @version SVN : $Id: init_testenv 3067 2015-02-19 10:14:09Z softime $
+##
+
+# Variables par défaut
+path_tests="/var/www/openexemple"
+
+# On se positionne à la racine de l'applicatif
+cd ..
+
+# On cré le lien symbolique qui est utilisé par les tests en fonction de
+# l'emplacement actuel uniquement si cet emplacement est un lien symbolique
+# ou n'existe pas 
+if ([ -e $path_tests ] && [ -L $path_tests ]) || ([ ! -e $path_tests ]) ;
+then
+    if [ -e $path_tests ] ;
+    then
+        sudo rm $path_tests
+    fi
+    path_current=`pwd`
+    sudo ln -s $path_current $path_tests
+fi
+
+# On positionne les permissions sur les répertoires de stockage et de 
+# génération pour ne pas obtenir d'erreurs dans les tests qui seraient
+# liées à la configuration du serveur et non à l'applicatif lui même
+# !!! ATTENTION !!! Ces permissions sont destinées à un environnement de 
+# tests, elles ne doivent évidemment pas être utilisées sur un environnement
+# de production.
+sudo chmod -R 777 trs/
+sudo chmod -R 777 tmp/
+sudo chmod -R 777 tests/binary_files/
+sudo chmod -R 777 gen/
+
+# On redémarre apache pour être sur de prendre en compte les derniers fichiers
+# de traduction
+sudo /etc/init.d/apache2 restart > /dev/null
+
+# On réinitialise la base de données pour avoir les données nécessaires aux
+# tests
+cd tests/
+./init_db $1
+cd ..
+
+# On se re-positionne dans le dossier tests
+cd tests/

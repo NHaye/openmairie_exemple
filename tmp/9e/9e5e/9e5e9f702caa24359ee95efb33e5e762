@@ -1,0 +1,3 @@
+om_utilisateur|nom|email|pwd|om_profil|om_collectivite|om_type
+1|Administrateur|contact@openmairie.org|21232f297a57a5a743894a0e4a801fc3|1|1|DB
+2|Démonstration|contact@openmairie.org|fe01ce2a7fbac8fafaed7c982a04e229|1|1|DB

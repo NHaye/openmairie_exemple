@@ -1,0 +1,23 @@
+#! /bin/sh
+##
+# Ce script permet d'exécuter la suite de tests de l'application après avoir
+# effectuer les initialisations nécessaires au bon déroulement de ces tests.
+#
+# On peut spécifier en paramètre le nom de la base de données.
+#
+# @package openaria
+# @version SVN : $Id$
+##
+
+# Initialisation de l'environnement de tests
+./init_testenv $1
+
+# Suppression des anciens résultats
+rm -rf results
+mkdir results
+
+# On exécute la suite de tests
+phpunit --log-junit results/results.xml -c config.xml
+
+# On exécute la suite de tests
+pybot -d results .
