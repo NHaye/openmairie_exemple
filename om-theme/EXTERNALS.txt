@@ -1,5 +1,0 @@
-#
-# created by: svn propset svn:externals -F ./EXTERNALS.txt .
-#
-
-jquery-ui-theme https://scm.adullact.net/anonscm/svn/openmairie/externals/jquery-ui-theme/om_kied/tags/1.8.16
